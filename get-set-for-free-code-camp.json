@@ -110,8 +110,15 @@
         "El mapa de desafíos es solamente de referencia. Puedes también presionar el botón de \"Learn\", el cual te llevará directamente al siguiente desafío.",
         "Para terminar, ten en cuenta que nuestra currícula open-source es un trabajo en progreso. Nuestra comunidad de voluntarios está mejorandola constantemente. Si crees que te has topado con algún bug, error ortográfico o algo que parezca confuso, haznos el favor de abrir un ticket a través de Github: <a href='https://github.com/FreeCodeCamp/freecodecamp/issues'>https://github.com/FreeCodeCamp/freecodecamp/issues</a>."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Visualize o nosso Mapa de Desafios",
+      "descriptionPt": [
+        "Antes de você começar a aprender a programar, nós gostaríamos de lhe introduzir algumas coisas.",
+        "Vamos olhar o nosso Mapa de Desafios. Clique no botão \"Map\" no canto superior direito. Esse mapa mostra todos os desafios que vão te ensinar a programar.",
+        "Você deveria completar todos esses desafios em ordem.",
+        "Uma vez que você termine estes desafios Waypoint, você irá para os Bonfires (prática de algoritmos), então Ziplines (prática de desenvolvimento front end), e finalmente Basejumps (prática de desenvolvimento full stack). Depois disso, você começará a desenvolver projetos para ONGs.",
+        "Esse mapa de desafios é apenas para referência. Você pode simplesmente apertar o botão \"Learn\", e ele te levará ao seu próximo desafio.",
+        "Por fim, tenha em mente que o nosso currículo open-source é um trabalaho em progresso. A nossa comunidade de voluntários está melhorando-o constantemente. Se você acha que encontrou um bug, erro de digitação, ou algo que pareça confuso, faça o favor de abrir uma issue no Github: <a href='https://github.com/FreeCodeCamp/freecodecamp/issues'>https://github.com/FreeCodeCamp/freecodecamp/issues</a>."
+      ]
     },
     {
       "_id": "bd7125d8c441eddfaeb5bd1f",
