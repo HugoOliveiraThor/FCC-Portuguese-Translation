@@ -148,8 +148,14 @@
         "Cuando le des click al botón de Field Guide, siempre te regresará al último artículo que estuviste leyendo.",
         "Lee algunos de nuestros artículos, luego continúa con tu siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Navegue pelo nosso Guia",
+      "descriptionPt": [
+        "O Free Code Camp tem um guia atualizado que irá responder muitas de suas questões.",
+        "Clique no botão \"Guide\" no canto superior direito.",
+        "Você pode navegar pelo guia à vontade. A maioria dos artigos levam menos de 1 minuto para ler.",
+        "Quando você clica no botão Guide, ele sempre te levará de volta para o último artigo que você estava lendo.",
+        "Leia alguns artigos, então passe para o próximo desafio."
+      ]
     },
     {
       "_id": "bd7125d8c441eddfaeb5bd2f",
