@@ -36,8 +36,17 @@
         "Una vez que completes el Free Code Camp, serás capaz de obtener un trabajo como desarrollador. Hay muchas posiciones de trabajo que están en búsqueda de programadores calificados.",
         "Ahora es el momento de ingresar a nuestra sala de chat. Dale click al botón de \"I've completed this challenge\" para continuar con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Aprenda como o Free Camp Code Funciona",
+      "descriptionPt": [
+      "Assista este vídeo de 1 minuto  , ou simplesmente leia esse sumário:",
+        "Seja Bem Vindo ao Free Code Camp . Somos uma comunidade de pessoas ocupadas aprendendo a programar construindo projetos para empresas            sem  fins lucrativos . ",
+        "Nós construimos essa comunidade porque aprender a programar é difícil . Mas qualquer um pode se sentir motivado a aprender a programar .         E para estar motivado , você somente precisa de : <ol><li>faça amigos com pessoas que codificam</li><li>programe um pouco cada dia</li></ol>".
+        "Nossos desafios são <ol><li>de graça</li><li>self-paced</li><li>browser-based</li></ol>",
+        "Nós gastamos <ol><li> 200 horas aprendendo ferramentas como HTML , CSS , JavaScript , Node.js e banco de dados</li><li>600 horas de construção prática em projetos </li><li>800 horas construindo solução completas para organizações sem fins lucrativos </li></ol>",
+        "Por último , veja bem <ol><li> seja bom codificando </li><li> tenha um portifólio de apps com usuários felizes para utiliza-los</li></ol>",
+        "Uma vez que voce utilize o Free Code Camo , voce será capaz de conseguir um emprego de desenvolvimento . Existem muitas vagas abertas que estão sem desenvolvedores qualificados para preencherem essas vagas .",
+        "Agora é tempo de vocês se juntar em nosso chat . Clique em \"Eu completei esse desafio\" clique no botão para ir ao próximo desafio."
+      ]
     },
     {
       "_id": "bd7125d8c441eddfaeb5bd0f",
@@ -77,8 +86,19 @@
         "Puedes acceder a la sala de chat dándole click al botón de \"Chat\" en la parte superior derecha de la página.",
         "Para mantener a nuestra comunidad como un lugar de aprendizaje positivo y amigable, por favor lee y sigue nuestro Código de Conducta: <a href='/field-guide/what-is-the-free-code-camp-code-of-conduct?' target='_blank'>http://freecodecamp.com/field-guide/what-is-the-free-code-camp-code-of-conduct?</a>"
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint : Participe da Nossa Sala de Bate Papo",
+      "descriptionPt": [
+      "Agora nós iremos entrar na Sala de Bate Papo do Free Code Camp . Você pode vir a qualquer hora do dia para fazer perguntas , ou encontrar outro colega para fazer um programa em par .",
+          "Certifique-se que sua conta do Free Code Camp inlcui o seu endereço de email . Por favor note que o endereço de email que você usa não serão visíveis para o público , mas Slack irá torná-lo visível para os outros colegas em nossas salas de bate papo . Você pode fazer isso aqui:<a href='/account' target='_blank'>http://freecodecamp.com/account</a>.",
+          "Clique neste link , que lhe enviaremos um convite para salas de bate papo do Slack Free Code Camp :<a href='/api/slack' target='_blank'>http://freecodecamp.com/api/slack</a>.",
+          "Agora , verifique o seu e-mail e clique no link a partir do Slack.",
+          "Conclua o processo de inscrição, em seguida, atualize suas informações biográficas e faça upload  de sua imagem. A imagem de seu rosto funciona melhor. Esta é a forma como as pessoas irão vê-lo em nossas salas de chat, então  coloque o seu melhor .",
+        "Agora, entre na sala de bate-papo Geral e se apresente  digitando: \"Olá Mundo!\".",
+        "Diga a seus colegas campistas como você encontrou o Free Code Camp. Também diga-nos por que você quer aprender a programar",
+        "Mantenha a sala de bate-papo aberta enquanto você trabalha através dos nossos desafios. Dessa forma, você pedir ajuda se você ficar preso em um desafio. Você também pode socializar quando você sentir vontade de fazer uma pausa.",
+        "Você também pode acessar esta sala de chat, clicando no botão \" Bate-papo \" botão no canto superior direito.",
+        "A fim de manter a nossa comunidade um lugar amigável e positiva para aprender a programar, por favor leia e siga o nosso Código de Conduta: <a href =/field-guide/what-is-the-free-code-camp-code-conduct? target = '_ blank'> http://freecodecamp.com/field-guide/what-is-the-free-code-camp-code-of-conduct? </a> "
+      ]
     },
     {
       "_id": "bd7125d8c441eddfaeb5bdff",
@@ -117,7 +137,7 @@
         "Você deveria completar todos esses desafios em ordem.",
         "Uma vez que você termine estes desafios Waypoint, você irá para os Bonfires (prática de algoritmos), então Ziplines (prática de desenvolvimento front end), e finalmente Basejumps (prática de desenvolvimento full stack). Depois disso, você começará a desenvolver projetos para ONGs.",
         "Esse mapa de desafios é apenas para referência. Você pode simplesmente apertar o botão \"Learn\", e ele te levará ao seu próximo desafio.",
-        "Por fim, tenha em mente que o nosso currículo open-source é um trabalaho em progresso. A nossa comunidade de voluntários está melhorando-o constantemente. Se você acha que encontrou um bug, erro de digitação, ou algo que pareça confuso, faça o favor de abrir uma issue no Github: <a href='https://github.com/FreeCodeCamp/freecodecamp/issues'>https://github.com/FreeCodeCamp/freecodecamp/issues</a>."
+        "Por fim, tenha em mente que o nosso currículo open-source é um trabalho em progresso. A nossa comunidade de voluntários está melhorando-o constantemente. Se você acha que encontrou um bug, erro de digitação, ou algo que pareça confuso, faça o favor de abrir uma issue no Github: <a href='https://github.com/FreeCodeCamp/freecodecamp/issues'>https://github.com/FreeCodeCamp/freecodecamp/issues</a>."
       ]
     },
     {
@@ -189,8 +209,16 @@
         "Asegurate de darle click al botón de \"Update my Bio\" o \"Update my Social Links\" para agregar esta nueva información a tu portafolio.",
         "Una vez que estés satisfecho con tu página de portafolio, puedes seguir con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Customize a sua página de Portifólio",
+      "descriptionPt": [
+      "Você e todos os seus colegas campistas tem páginas de portifólio.",
+         "Para ver sua página de portfólio, clique em sua foto no canto superior direito.",
+         "Sua página de portifólio irá mostrar automaticamente o seu progresso através do Free Code Camp.",
+         "Clique no botão \"Atualizar minha página de portifólio ou gerenciar minha conta \"botão",
+         "Você pode conectar-se a suas contas GitHub, Twitter e LinkedIn. Se você já construiu alguns sites, você pode linkar eles aqui.",
+         "Certifique-se de clicar no botão \"Atualizar o meu Bio \" ou \" Atualizar meus Links Sociais\" para salvar esta nova informação na sua página de portifólio.",
+         "Uma vez que você está feliz com sua página de portfólio, você pode passar para o seu próximo desafio."
+      ]
     },
     {
       "_id": "bd7126d8c441eddfaeb5bd3f",
