@@ -36,8 +36,17 @@
         "Una vez que completes el Free Code Camp, serás capaz de obtener un trabajo como desarrollador. Hay muchas posiciones de trabajo que están en búsqueda de programadores calificados.",
         "Ahora es el momento de ingresar a nuestra sala de chat. Dale click al botón de \"I've completed this challenge\" para continuar con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Aprenda como o Free Camp Code Funciona",
+      "descriptionPt": [
+      "Assista este vídeo de 1 minuto  , ou simplesmente leia esse sumário:",
+        "Seja Bem Vindo ao Free Code Camp . Somos uma comunidade de pessoas ocupadas aprendendo a programar construindo projetos para empresas            sem  fins lucrativos . ",
+        "Nós construimos essa comunidade porque aprender a programar é difícil . Mas qualquer um pode se sentir motivado a aprender a programar .         E para estar motivado , você somente precisa de : <ol><li>faça amigos com pessoas que codificam</li><li>programe um pouco cada dia</li></ol>".
+        "Nossos desafios são <ol><li>de graça</li><li>self-paced</li><li>browser-based</li></ol>",
+        "Nós gastamos <ol><li> 200 horas aprendendo ferramentas como HTML , CSS , JavaScript , Node.js e banco de dados</li><li>600 horas de construção prática em projetos </li><li>800 horas construindo solução completas para organizações sem fins lucrativos </li></ol>",
+        "Por último , veja bem <ol><li> seja bom codificando </li><li> tenha um portifólio de apps com usuários felizes para utiliza-los</li></ol>",
+        "Uma vez que voce utilize o Free Code Camo , voce será capaz de conseguir um emprego de desenvolvimento . Existem muitas vagas abertas que estão sem desenvolvedores qualificados para preencherem essas vagas .",
+        "Agora é tempo de vocês se juntar em nosso chat . Clique em \"Eu completei esse desafio\" clique no botão para ir ao próximo desafio."
+      ]
     },
     {
       "_id": "bd7125d8c441eddfaeb5bd0f",
