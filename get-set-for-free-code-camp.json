@@ -86,19 +86,19 @@
         "Puedes acceder a la sala de chat dándole click al botón de \"Chat\" en la parte superior derecha de la página.",
         "Para mantener a nuestra comunidad como un lugar de aprendizaje positivo y amigable, por favor lee y sigue nuestro Código de Conducta: <a href='/field-guide/what-is-the-free-code-camp-code-of-conduct?' target='_blank'>http://freecodecamp.com/field-guide/what-is-the-free-code-camp-code-of-conduct?</a>"
       ],
-      "namePt": "WayPoint : Participe da Nossa Sala de Bate Papo",
+      "namePt": "Waypoint: Entre na Sala de Conversa",
       "descriptionPt": [
-      "Agora nós iremos entrar na Sala de Bate Papo do Free Code Camp . Você pode vir a qualquer hora do dia para fazer perguntas , ou encontrar outro colega para fazer um programa em par .",
-          "Certifique-se que sua conta do Free Code Camp inlcui o seu endereço de email . Por favor note que o endereço de email que você usa não serão visíveis para o público , mas Slack irá torná-lo visível para os outros colegas em nossas salas de bate papo . Você pode fazer isso aqui:<a href='/account' target='_blank'>http://freecodecamp.com/account</a>.",
-          "Clique neste link , que lhe enviaremos um convite para salas de bate papo do Slack Free Code Camp :<a href='/api/slack' target='_blank'>http://freecodecamp.com/api/slack</a>.",
-          "Agora , verifique o seu e-mail e clique no link a partir do Slack.",
-          "Conclua o processo de inscrição, em seguida, atualize suas informações biográficas e faça upload  de sua imagem. A imagem de seu rosto funciona melhor. Esta é a forma como as pessoas irão vê-lo em nossas salas de chat, então  coloque o seu melhor .",
-        "Agora, entre na sala de bate-papo Geral e se apresente  digitando: \"Olá Mundo!\".",
-        "Diga a seus colegas campistas como você encontrou o Free Code Camp. Também diga-nos por que você quer aprender a programar",
-        "Mantenha a sala de bate-papo aberta enquanto você trabalha através dos nossos desafios. Dessa forma, você pedir ajuda se você ficar preso em um desafio. Você também pode socializar quando você sentir vontade de fazer uma pausa.",
-        "Você também pode acessar esta sala de chat, clicando no botão \" Bate-papo \" botão no canto superior direito.",
-        "A fim de manter a nossa comunidade um lugar amigável e positiva para aprender a programar, por favor leia e siga o nosso Código de Conduta: <a href =/field-guide/what-is-the-free-code-camp-code-conduct? target = '_ blank'> http://freecodecamp.com/field-guide/what-is-the-free-code-camp-code-of-conduct? </a> "
-      ]
+        "Agora nós iremos nos juntar a Sala de Conversa do Free Code Camp. Você tera acesso a Sala de Conversa a qualquer hora do dia para se distrair, fazer perguntas, ou encontrar um outro camper para formarem duplas e programarem juntos.",
+        "Certifique-se que a sua conta no Free Code Camp contenha o seu endereço de email. Por favor, entenda que o endereço de email que você usar não sera visível para o publico, mas o Slack o tornara visível para outros campers em nossas Salas de Conversa. Você pode fazer isso aqui: <a href='/account' target='_blank'>http://freecodecamp.com/account</a>.",
+        "Clique nesse link, assim você recebera um convite por email para acessar as Salas de Conversa do Slack no Free Code Camp: <a href='/api/slack' target='_blank'>http://freecodecamp.com/api/slack</a>.",
+        "Agora verifique o seu email, abra o email enviado por Slack e entre no link.",
+        "Finalize o processo de cadastro, e então atualize a sua informação biográfica e upload uma imagem. Uma foto de perfil funcionara melhor. Sera dessa forma que você sera reconhecido nas Salas de Conversa, então comece com o pé direito.",
+        "Agora entre na sala chamada General e se introduza para todos digitando: \"Hello world!\".",
+        "Conte para os seus caros campers como você encontrou o Free Code Camp. Também nos diga o porque você quer aprender a programar.",
+        "Mantenha a Sala de Conversa aberta enquanto você resolve os desafios. Dessa forma caso você não consiga passar um desafio você poderá pedir ajuda. Você também pode se socializar quando você estiver descansando.",
+        "Você também poderá acessar a Sala de Conversa clicando no botão \"Chat\" no canto superior direito.", 
+        "Para mantermos a nossa comunidade um lugar amigável e positivo para aprender a como programar, por favor leia o nosso Código de Conduta: <a href='/field-guide/what-is-the-free-code-camp-code-of-conduct?' target='_blank'>http://freecodecamp.com/field-guide/what-is-the-free-code-camp-code-of-conduct?</a>"
+        ]
     },
     {
       "_id": "bd7125d8c441eddfaeb5bdff",
