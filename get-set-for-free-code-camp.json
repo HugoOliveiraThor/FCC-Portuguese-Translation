@@ -256,8 +256,18 @@
         "Cuando envies un link, recibirás un punto. También obtendrás un punto cada vez que otra persona vote por tu link.",
         "Ahora que has aprendido a utilizar las Noticias de Campers, continuaremos con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Experimente as Notícias dos Campers",
+      "descriptionPt": [
+        "Notícias dos Campers é o melhor lugar para que os nossos campers possam discutir e compartilhar links úteis.",
+        "Clique em \"News\" no canto superior direito.",
+        "Você verá uma variedade de links que foram enviados. Clique no botão \"Discuss\" embaixo de um destes links.",
+        "Você pode votar nos links que gostar. Isso irá aumentar o ranking deles.",
+        "Você também pode comentar em um link. Se alguém responder o seu comentário, você receberá uma notificação por e-mail para que você possa voltar e respondê-lo.",
+        "Você também pode enviar links. Você pode alterar o título e também deixar um comentário inicial sobre o link enviado.",
+        "Você pode ver as páginas de portfólio de qualquer camper que tenha enviado links ou comentado nas Notícias dos Campers. Você só tem que clicar na foto deles.",
+        "Quando você envia um link, você receberá um ponto. Você também receberá um ponto cada vez que alguém votar no seu link.",
+        "Agora que você aprendeu como usar as Notícias dos Campers, vamos ao seu próximo desafio."
+      ]
     },
     {
       "_id": "bd7126d8c441eddfaeb5bd3e",
