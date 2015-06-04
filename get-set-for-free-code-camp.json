@@ -293,8 +293,17 @@
         "Nuestros grupos te dan la potestad de crear eventos y coordinarlos, solamente asegurate de compartir las fotos del evento una vez terminado.",
         "En caso seas el anfitrión de un grupo de estudio, estes programando en pares en una biblioteca local o piensen en ir a un hackathon de fin de semana, tu grupo local te ayudará a hacerlo."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Conheça outros campistas na sua cidade",
+      "descriptionPt": [
+        "Uma das melhores formas para se manter motivado quanto a  aprender a programar é para conversar com outros campistas.",
+        "Slack e Notícias dos Campistas  são ótimas maneiras de se comunicar com outros campistas, mas nada se compara quanto a conhecer a pessoa.",
+        "A maneira mais fácil de conhecer outros campistas na sua cidade é para entrar no Facebook Grupo de sua cidade. Clique <a href='/field-             guide/how-can-i-find-other-free-code-camp-campers-in-my-city' target='_blank'> aqui </a> para ver a nossa lista crescente de grupos locais. ",
+        "Clique no link da sua cidade e em seguida, uma vez que o Facebook carregue , clique em \"Entrar para o grupo\".",
+        "Nossos grupos locais são novos, por isso, se você não encontra sua cidade na lista, você deve seguir as instruções para criar um grupo             no Facebook para sua  respectiva cidade.",
+        "Se você não tiver uma conta no Facebook é altamente recomendável que você crie uma, mesmo que seja apenas para a finalidade de coordenar           com os campistas em sua cidade através deste grupo.",
+        "Nossos grupos permitem que você crie eventos, coordene  eventos e compartilhe as fotos posteriormente.",
+        "Se você está hospedando um grupo de estudo de programação em pares  em sua biblioteca local, ou indo  a um hackathon no  fim de semana,           o grupo de sua cidade irá ajudá-lo a fazer isso acontecer."
+      ]
     },
     {
       "_id": "bd7137d8c441eddfaeb5bdef",
@@ -330,8 +339,17 @@
         "Aquí está nuestra guia detallada en como obtener ayuda: <a href='/field-guide/how-do-i-get-help-when-i-get-stuck' target='_blank'>http://freecodecamp.com/field-guide/how-do-i-get-help-when-i-get-stuck</a>.",
         "Ahora que tienes en claro el procedimiento a seguir cuando necesites ayuda. ¡Empecémos a programar! Continua con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Busque ajuda no Modo Hacker com o RSAP",
+      "descriptionPt": [
+      "Vamos escrever sobre  uma última coisa antes de começar a trabalhar através de nossas aulas:. Como obter ajuda",
+        "Toda vez que você ficar preso ou não sabe o que fazer em uma tarefa , siga este simple algoritmo (procedimento):. LPPP (Leitura,          Pesquisa, Perguntar, Postar)",
+      "Primeira coisa a se fazer, L - Leia a documentação ou a mensagem de erro. Uma habilidade fundamental de bons programadores  é que possuem a capacidade de interpretar erros em seguida procurar a solução..",
+        "Em seguida, P - Pesquisa do Google. Boas consultas no Google trazem muitas boas práticas . Quando você pesquisa no Google, você geralmente quer incluir a linguagem  ou o framework que  está usando .Você também quer limitar os resultados a um  período mais recente...",
+        "Então, se você ainda não encontrou uma resposta para sua pergunta , P -.. Pergunte aos seus amigos. Se você tiver problemas, você pode pedir a seus colegas campistas.Temos uma sala de bate-papo especial criada  para a obtenção de ajuda com as ferramentas que você aprende através dos Desafios do Free Code Camp .Vá para <a href='https://freecodecamp.slack.com/messages/help/' target='_blank'>                   https://freecodecamp.slack.com/messages/help/</a >.Mantenha este bate-papo aberto enquanto você trabalha com os desafios restantes. ",
+        ". Finalmente, P - Postar no Stack Overflow . Antes de tentar fazer isso, leia o manual do Stack Overflow para fazer boas perguntas: <a href='http://stackoverflow.com/help/how-to-ask'> http: //stackoverflow.com/help/how-to-ask </a>. ",
+        "Aqui é o nosso guia de campo detalhando sobre como obter ajuda: <a href='/field-guide/how-do-i-get-help-when-i-get-stuck'    target='_blank'> http: // freecodecamp. com / campo-guia / how-do-i-get-help-when-i-get-stuck</a>. ",
+        "Agora você tem um algoritmo claro para seguir quando você precisar de ajuda! Vamos começar a codificar! Vá para o seu próximo desafio."
+      ]
     }
   ]
 }
