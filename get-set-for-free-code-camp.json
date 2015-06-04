@@ -273,8 +273,17 @@
         "Nuestros grupos te dan la potestad de crear eventos y coordinarlos, solamente asegurate de compartir las fotos del evento una vez terminado.",
         "En caso seas el anfitrión de un grupo de estudio, estes programando en pares en una biblioteca local o piensen en ir a un hackathon de fin de semana, tu grupo local te ayudará a hacerlo."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Encontre outros Campers na tua cidade",
+      "descriptionPt": [
+        "Uma das melhores maneiras de permanecer motivado enquanto está aprendendo a programar é sair para se encontrar com outros campers.",
+        "Slack e Camper News são ótimas formas de se comunicar com outros campers, mas não há nada como encontrar outras pessoas pessoalmente.",
+        "A forma mais fácil de encontrar outros campers na sua cidade é se juntar ao grupo do Facebook da sua cidade. Clique <a href='/field-guide/how-can-i-find-other-free-code-camp-campers-in-my-city' target='_blank'>aqui</a> para ver a nossa lista crescente de grupos locais.",
+        "Clique no link da sua cidade, então, quando o Facebook carregar, clique \"Join group\".",
+        "Os nossos grupos locais são novos, então se você não encontrar a sua cidade na lista, você deveria seguir as instruções para criar um grupo do Facebook para a sua cidade.",
+        "Se você não tem uma conta do Facebook, nós recomendamos fortemente que você crie uma, mesmo que seja apenas para se organizar com os campers na sua cidade através desse grupo.",
+        "Os nossos grupos permitem que você crie eventos, coordene esses eventos, e compartilhe fotos dos eventos depois.",
+        "Quer você esteja hospedando um grupo de estudo, fazendo pair programming na sua biblioteca local, ou indo para um hackathon de fim de semana, o grupo da sua cidade vai te ajudar a fazer acontecer."
+      ]
     },
     {
       "_id": "bd7137d8c441eddfaeb5bdef",
