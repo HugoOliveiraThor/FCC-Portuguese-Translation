@@ -189,8 +189,16 @@
         "Asegurate de darle click al botón de \"Update my Bio\" o \"Update my Social Links\" para agregar esta nueva información a tu portafolio.",
         "Una vez que estés satisfecho con tu página de portafolio, puedes seguir con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Personalize o seu Portfólio",
+      "descriptionPt": [
+        "Você e todos os colegas campers têm páginas de portfólio.",
+        "Para ver a sua página de portfólio, clique na sua foto, no canto superior direito.",
+        "O seu portfólio irá mostrar automaticamente o seu progresso pelo Free Code Camp.",
+        "Clique no botão \"Update my portfolio page or manage my account\"",
+        "Você pode vincular a sua conta do GitHub, Twitter e LinkedIn. Se você já construiu alguns websites, você pode vinculá-los lá também.",
+        "Certifique-se de clicar no botão \"Update my Bio\" ou \"Update my Social Links\" para salvar essa nova informação à sua página de portfólio.",
+        "Quando você estiver satisfeito com o seu portfólio, você pode ir para o próximo desafio."
+      ]
     },
     {
       "_id": "bd7126d8c441eddfaeb5bd3f",
