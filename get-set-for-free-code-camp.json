@@ -137,7 +137,7 @@
         "Você deveria completar todos esses desafios em ordem.",
         "Uma vez que você termine estes desafios Waypoint, você irá para os Bonfires (prática de algoritmos), então Ziplines (prática de desenvolvimento front end), e finalmente Basejumps (prática de desenvolvimento full stack). Depois disso, você começará a desenvolver projetos para ONGs.",
         "Esse mapa de desafios é apenas para referência. Você pode simplesmente apertar o botão \"Learn\", e ele te levará ao seu próximo desafio.",
-        "Por fim, tenha em mente que o nosso currículo open-source é um trabalaho em progresso. A nossa comunidade de voluntários está melhorando-o constantemente. Se você acha que encontrou um bug, erro de digitação, ou algo que pareça confuso, faça o favor de abrir uma issue no Github: <a href='https://github.com/FreeCodeCamp/freecodecamp/issues'>https://github.com/FreeCodeCamp/freecodecamp/issues</a>."
+        "Por fim, tenha em mente que o nosso currículo open-source é um trabalho em progresso. A nossa comunidade de voluntários está melhorando-o constantemente. Se você acha que encontrou um bug, erro de digitação, ou algo que pareça confuso, faça o favor de abrir uma issue no Github: <a href='https://github.com/FreeCodeCamp/freecodecamp/issues'>https://github.com/FreeCodeCamp/freecodecamp/issues</a>."
       ]
     },
     {
@@ -209,8 +209,16 @@
         "Asegurate de darle click al botón de \"Update my Bio\" o \"Update my Social Links\" para agregar esta nueva información a tu portafolio.",
         "Una vez que estés satisfecho con tu página de portafolio, puedes seguir con el siguiente desafío."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Customize a sua página de Portifólio",
+      "descriptionPt": [
+      "Você e todos os seus colegas campistas tem páginas de portifólio.",
+         "Para ver sua página de portfólio, clique em sua foto no canto superior direito.",
+         "Sua página de portifólio irá mostrar automaticamente o seu progresso através do Free Code Camp.",
+         "Clique no botão \"Atualizar minha página de portifólio ou gerenciar minha conta \"botão",
+         "Você pode conectar-se a suas contas GitHub, Twitter e LinkedIn. Se você já construiu alguns sites, você pode linkar eles aqui.",
+         "Certifique-se de clicar no botão \"Atualizar o meu Bio \" ou \" Atualizar meus Links Sociais\" para salvar esta nova informação na sua página de portifólio.",
+         "Uma vez que você está feliz com sua página de portfólio, você pode passar para o seu próximo desafio."
+      ]
     },
     {
       "_id": "bd7126d8c441eddfaeb5bd3f",
