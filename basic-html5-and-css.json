@@ -1292,7 +1292,12 @@
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
-      "descriptionPt": []
+      "descriptionPt": [
+        "Adicione um <code>alt</code> atributo com o texto \"A cute orange cat lying on its back\" na nossa foto do gato.",
+        "<code>alt</code> atributos, também conhecido como \"alt text\", são o que os navegadores irão mostrar caso haja a falha para carregar a imagem. <code>alt</code> atributos também são importantes para usuários cegos ou com visão limitada para entender o que a imagem representa. Motores de Busca também visualizam <code>alt</code> atributos.",
+        "Resumidamente, cada imagem deve conter um <code>alt</code> atributo!",
+        "<code>alt</code> atributos são importantes para dizer ao usuário (e web crawlers como o Google) o que esta sendo ilustrado em uma foto. É extremamente importante para ajudar pessoas cegas ou com visão limitada a entenderem o conteúdo do seu website.",
+        "Você pode adicionar um <code>alt</code> atributo direto dentro do elemento img da seguinte forma: <code>&#60img src=\"www.your-image-source.com/your-image.jpg\" alt=\"your alt text\"/&#62</code>."]
     },
     {
       "_id": "bad87fee1348bd9aedf08827",
