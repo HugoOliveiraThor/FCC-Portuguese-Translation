@@ -1291,7 +1291,7 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
+      "namePt": "WayPoint : Adicione Alt Text em uma imagem para acessibilidade",
       "descriptionPt": [
         "Adicione um <code>alt</code> atributo com o texto \"A cute orange cat lying on its back\" na nossa foto do gato.",
         "<code>alt</code> atributos, também conhecido como \"alt text\", são o que os navegadores irão mostrar caso haja a falha para carregar a imagem. <code>alt</code> atributos também são importantes para usuários cegos ou com visão limitada para entender o que a imagem representa. Motores de Busca também visualizam <code>alt</code> atributos.",
