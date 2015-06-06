@@ -82,8 +82,11 @@
         "Este elemento le dice al navegador cómo mostrar el texto que contiene.",
         "Los elementos <code>h2</code> son ligeramente más pequeños que los elementos <code>h1</code>. También hay elementos <code>h3</code>, <code>h4</code>, <code>h5</code> y <code>h6</code>."
 	  ],
-
+<<<<<<< HEAD
       "namePt": "Waypoint: Títulos com elementos H2",
+=======
+      "namePt": "Títulos com elementos H2",
+>>>>>>> upstream/master
       "descriptionPt": [
          "Adicionar uma tag <code>h2</code> que diz \"CatPhotoApp\" para criar um segundo <code>elemento</code> HTML  abaixo do seu \"Hello World\" elemento <code>h1</code>. ",
          "O elemento<code> h2 </code> que irá digitou irá criar um elemento <code>h2</code> no site.",
