@@ -1235,8 +1235,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Transforme uma imagem em um link",
+      "descriptionPt": [
+        "Junte o seu elemento <code>img</code> dentro de um <code>a</code> com um link inativo.",
+        "Você pode transformar elementos em links juntando eles dentro do <code>a</code>.",
+        "Junte a sua imagem dentro do elemento <code>a</code>. Exemplo: <code>&#60;a href='#'&#62;&#60;img src='http://bit.ly/fcc-kittens2'/&#62;&#60;/a&#62;</code>.",
+        "Lembre-se de usar o simbolo sustenido ou pound (#) junto ao seu <code>a</code> elemento para tornar as propriedades do link inativa.",
+        "Uma vez que você tenha feito isso, passe a seta do seu mouse sobre a imagem. Assim a seta normal do mouse se tornara um ponto clicável. E a imagem se tornou um link."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08818",
@@ -1298,8 +1304,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint : Adicione Alt Text em uma imagem para acessibilidade",
+      "descriptionPt": [
+        "Adicione um <code>alt</code> atributo com o texto \"A cute orange cat lying on its back\" na nossa foto do gato.",
+        "<code>alt</code> atributos, também conhecido como \"alt text\", são o que os navegadores irão mostrar caso haja a falha para carregar a imagem. <code>alt</code> atributos também são importantes para usuários cegos ou com visão limitada para entender o que a imagem representa. Motores de Busca também visualizam <code>alt</code> atributos.",
+        "Resumidamente, cada imagem deve conter um <code>alt</code> atributo!",
+        "<code>alt</code> atributos são importantes para dizer ao usuário (e web crawlers como o Google) o que esta sendo ilustrado em uma foto. É extremamente importante para ajudar pessoas cegas ou com visão limitada a entenderem o conteúdo do seu website.",
+        "Você pode adicionar um <code>alt</code> atributo direto dentro do elemento img da seguinte forma: <code>&#60img src=\"www.your-image-source.com/your-image.jpg\" alt=\"your alt text\"/&#62</code>."]
     },
     {
       "_id": "bad87fee1348bd9aedf08827",
