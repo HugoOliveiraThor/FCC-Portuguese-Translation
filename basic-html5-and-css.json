@@ -126,6 +126,7 @@
       	"Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
         "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
         "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
+      
       	]
     },
     {
@@ -332,12 +333,8 @@
         "Nuestro teléfono no tiene mucho espacio para elementos HTML.",
         "Removamos los elementos innecesarios para que empecemos a construir nuestra CatPhotoApp."
       ],
-      "namePt": "Waypoint: Delete Elementos HTML",
-      "descriptionPt": [
-      	"Delete seu elemento <code>h1</code> e <code>br</code> para que possamos simplificar nossa visão.",
-        "Nosso telefone não possui muito espaço vertical.",
-        "Vamos remover os elementos desnecessários para que possamos inicar a criação do nosso CatPhotoApp."
-      	]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedf08803",
