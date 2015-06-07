@@ -121,8 +121,13 @@
         "Los elementos párrafo son los principales elementos para los párrafos de texto en tamaño normal en sitios web.",
         "Tú puedes crear un elemento párrafo como éste: <code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
 	  ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Trabalhe com o Elemento Parágrafo",
+      "descriptionPt": [
+      	"Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
+        "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
+        "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
+      
+      	]
     },
     {
       "_id": "bad87fee1348bd9aeaf08801",
@@ -156,8 +161,13 @@
         "Fíjate que <code>&#60;br&#47&#62</code> no tiene etiqueta de cierre. Es un elemento <code>auto-cerrado</code>. ¿Ves cómo un / precede el signo de cierre (>)?",
         "Luego te encontrarás con otras etiquetas de elementos <code>auto-cerrados</code>."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint : Separe visualmente os elementos atravês de quebra de linhas",
+      "descriptionPt": [
+      	"Adicione um elemento <code>br<code> á uma página , preferencialmente entre dois de seus elementos .",
+       "Elementos <code>br</code> também conhecidos como elementos \"quebra de linha\" , podem ser criados atravês com <code>&#60;br&#62</code>.",
+       "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".,
+       "Você irá encontrar outras tags de elementos de fechamento automático em breve." 
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08802",
@@ -1244,8 +1254,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Transforme uma imagem em um link",
+      "descriptionPt": [
+        "Junte o seu elemento <code>img</code> dentro de um <code>a</code> com um link inativo.",
+        "Você pode transformar elementos em links juntando eles dentro do <code>a</code>.",
+        "Junte a sua imagem dentro do elemento <code>a</code>. Exemplo: <code>&#60;a href='#'&#62;&#60;img src='http://bit.ly/fcc-kittens2'/&#62;&#60;/a&#62;</code>.",
+        "Lembre-se de usar o simbolo sustenido ou pound (#) junto ao seu <code>a</code> elemento para tornar as propriedades do link inativa.",
+        "Uma vez que você tenha feito isso, passe a seta do seu mouse sobre a imagem. Assim a seta normal do mouse se tornara um ponto clicável. E a imagem se tornou um link."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08818",
@@ -1307,8 +1323,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint : Adicione Alt Text em uma imagem para acessibilidade",
+      "descriptionPt": [
+        "Adicione um <code>alt</code> atributo com o texto \"A cute orange cat lying on its back\" na nossa foto do gato.",
+        "<code>alt</code> atributos, também conhecido como \"alt text\", são o que os navegadores irão mostrar caso haja a falha para carregar a imagem. <code>alt</code> atributos também são importantes para usuários cegos ou com visão limitada para entender o que a imagem representa. Motores de Busca também visualizam <code>alt</code> atributos.",
+        "Resumidamente, cada imagem deve conter um <code>alt</code> atributo!",
+        "<code>alt</code> atributos são importantes para dizer ao usuário (e web crawlers como o Google) o que esta sendo ilustrado em uma foto. É extremamente importante para ajudar pessoas cegas ou com visão limitada a entenderem o conteúdo do seu website.",
+        "Você pode adicionar um <code>alt</code> atributo direto dentro do elemento img da seguinte forma: <code>&#60img src=\"www.your-image-source.com/your-image.jpg\" alt=\"your alt text\"/&#62</code>."]
     },
     {
       "_id": "bad87fee1348bd9aedf08827",
@@ -1372,8 +1393,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Monte uma Lista não Ordenada de Marcadores"
+      "descriptionPt": [
+        "Troque os elementos <code>p</code> por uma lista não ordenada de 3 coisas que gatos adoram",
+        "O HTML tem um elemento especial para criar listas não ordenadas, ou listas de marcadores estilo-ponto ",
+        "Listas não ordenadas começam com o elemento  <code>&#60;ul&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
+        "Por exemplo: <code>&#60;ul&#62;&#60;li&#62;milk&#60;/li&#62;&#60;li&#62;cheese&#60;/li&#62;&#60;/ul&#62;</code> iria criar uma lista marcada de \"milk\" e \"cheese\"."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08828",
@@ -1444,8 +1470,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Crie uma Lista Ordenada",
+      "descriptionPt": [ 
+        "Crie uma lista ordenada com as 3 coisas que os gatos mais odeiam.",
+        "O HTML tem um elemento especial para criar listas ordenadas, ou listas com estilo-enumerado",
+        "Listas ordenadas começam com o elemento <code>&#60;ol&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
+        "Por exemplo: <code>&#60;ol&#62;&#60;li&#62;hydrogen&#60;/li&#62;&#60;li&#62;helium&#60;/li&#62;&#60;/ol&#62;</code> iria criar uma lista enumerada de \"hydrogen\" e \"helium\". "
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08829",
@@ -1515,8 +1546,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um Campo de Texto",
+      "descriptionPt": [
+        "Agora nós iremos criar um formulário. Crie uma entrada de texto abaixo das suas listas"
+        "Entradas de texto são um modo conveniente de receber dados do seu usuário.",
+        "Você pode criar uma como essa: <code>&#60;input type='text'&#62;</code>. Observe que os elementos <code>input</code> possuem fechamento próprio."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08830",
@@ -1588,8 +1623,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione um Espaço com Texto Reservado no Campo de Texto",
+      "descriptionPt": [
+        "Coloque o valor <code>placeholder</code> do seu texto <code>input</code> para \"cat photo URL\".",
+        "O seu texto reservado sera o que aparecera na sua caixa de texto <code>input</code> antes do seu usuário inserir qualquer informação.",
+        "Você pode criar um texto reservado da seguinte forma: <code>&#60;input type='text' placeholder='this is placeholder text'&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aede08830",
@@ -1663,8 +1702,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um Elemento Formulário",
+      "descriptionPt": [
+        "Conglomere o seu campo de texto dentro do elemento <code>form</code>. Adicione o atributo <code>action=\"/submit-cat-photo\"</code> no elemento formulário.",
+        "Você pode montar formulários que possam realmente enviar dados para um servidor usando nada mais do que HTML puro. Você pode fazer isso especificando uma ação no seu elemento <code>form</code>.",
+        "Por exemplo: <code>&#60;form action=\"/url-where-you-want-to-submit-form-data\"&#62;&#60;/form&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedd08830",
@@ -1740,8 +1783,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione um botão Enviar em um Formulário",
+      "descriptionPt": [
+        "Adicione um botão enviar na seu elemento <code>form</code> com type \"submit\" e \"Enviar\" como o texto.",
+        "Vamos adicionar o botão Enviar no seu formulário. Clicando nesse botão ira enviar dados do seu formulário para o URL que você especificou com o atributo <code>action</code> no formulário.",
+        "Aqui vai um exemplo do botão Enviar: <code>&#60;button type='submit'&#62;this button submits the form&#60;/button&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedc08830",
@@ -1815,8 +1862,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Utilize HTML5 para exigir preenchimento obrigatório",
+      "descriptionPt": [        
+        "Faça do seu texto <code>input</code> um campo obrigatório usando \"required\", pois dessa forma o seu usuário não poderá enviar o formulário sem completar o campo obrigatório.",
+        "Você pode exigir campos específicos no formulário fazendo com que o seu usuário não consiga enviar o formulário antes que ele ou ela tenha inserido o informação requisitada.",
+        "Por exemplo, se você quiser fazer um preenchimento de texto obrigatório, você apenas precisa adicionar a palavra \"required\" entre o elemento <code>input</code>, você usaria: <code>&#60;input type='text' required&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08834",
