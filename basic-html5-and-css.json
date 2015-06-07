@@ -328,8 +328,12 @@
         "Nuestro teléfono no tiene mucho espacio para elementos HTML.",
         "Removamos los elementos innecesarios para que empecemos a construir nuestra CatPhotoApp."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Delete Elementos HTML",
+      "descriptionPt": [
+      	"Delete seu elemento <code>h1</code> e <code>br</code> para que possamos simplificar nossa visão.",
+        "Nosso telefone não possui muito espaço vertical.",
+        "Vamos remover os elementos desnecessários para que possamos inicar a criação do nosso CatPhotoApp."
+      	]
     },
     {
       "_id": "bad87fee1348bd9aedf08803",
