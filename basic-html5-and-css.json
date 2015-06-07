@@ -121,8 +121,12 @@
         "Los elementos párrafo son los principales elementos para los párrafos de texto en tamaño normal en sitios web.",
         "Tú puedes crear un elemento párrafo como éste: <code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
 	  ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Trabalhe com o Elemento Parágrafo",
+      "descriptionPt": [
+      	"Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
+        "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
+        "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
+      	]
     },
     {
       "_id": "bad87fee1348bd9aeaf08801",
