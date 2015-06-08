@@ -38,15 +38,15 @@
         "Una vez que hayas completado cada desafío, y que hayas pasado todas sus pruebas, el botón \"Ir a mi siguiente desafío\" se activará. Haz click en él - o presiona control y enter al mismo tiempo - para avanzar al siguiente desafío.",
         "Para activar el botón \"Ir a mi siguiente desafío\" de este ejercicio, cambia tu texto de la etiqueta <code>h1</code> para que diga \"Hello World\" en lugar de \"Hello\"."
 	  ],
-      "namePt": "Diga Olá para os elementos HTML",
+      "namePt": "Waypoint: Diga Olá para os elementos HTML",
       "descriptionPt": [
         "Bem-vindo ao primeiro desafio de codificação do Free Code Camp! Clique no botão abaixo para obter mais instruções.",
-        "Ótimo. Agora você pode ler o resto das instruções deste desafio.",
-        "Você pode editar <code> código </code>em seu<code> editor de texto </code> que já  temos incorporado a esta página web.",
-        "Você vê o código em seu editor de texto que diz <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Essa é um <code>elemento</code> HTML .",
-        "A maioria dos elementos HTML têm uma <code> tag de abertura </code> e <code> tag de fechamento </code>. Abrir tags é parecido com isto: <code>&#60;h1&#62;<code>.Fechamentos de tags são parecidas com isto:<code>&#60;/h1&#62;</code>. Observe que a única diferença entre a abertura e a tag de fechamento é que essas tags tem uma barra invertida depois de abrir a tag. ",
-        "Uma vez concluido cada desafio e todos os seus testes forem concluídos , o  botão \" Go to my next challenge \" será ativado. Clique nele - Ou pressione CONTROL + ENTER ao mesmo tempo  para avançar para o próximo desafio.",
-        "Para ativar o botão  \" Go to my next challenge \" e avançar nos exercícios : Mude a sua tag <code>h1</code> do texto para dizer \"Hello World\" em vez de \"Hello\"."
+        "Ótimo. Agora você pode ler o resto das instruções deste desafio.",
+        "Você pode editar <code> código </code>em seu<code> editor de texto </code> que já  temos incorporado a esta página web.",
+        "Você vê o código em seu editor de texto que diz <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Essa é um <code>elemento</code> HTML .",
+        "A maioria dos elementos HTML têm uma <code> tag de abertura </code> e <code> tag de fechamento </code>. Abrir tags é parecido com isto: <code>&#60;h1&#62;<code>.Fechamentos de tags são parecidas com isto:<code>&#60;/h1&#62;</code>. Observe que a única diferença entre a abertura e a tag de fechamento é que essas tags tem uma barra invertida depois de abrir a tag. ",
+        "Uma vez concluido cada desafio e todos os seus testes forem concluídos , o  botão \" Go to my next challenge \" será ativado. Clique nele - Ou pressione CONTROL + ENTER ao mesmo tempo  para avançar para o próximo desafio.",
+        "Para ativar o botão  \" Go to my next challenge \" e avançar nos exercícios : Mude a sua tag <code>h1</code> do texto para dizer \"Hello World\" em vez de \"Hello\"."
       ]
     },
     {
@@ -82,12 +82,12 @@
         "Este elemento le dice al navegador cómo mostrar el texto que contiene.",
         "Los elementos <code>h2</code> son ligeramente más pequeños que los elementos <code>h1</code>. También hay elementos <code>h3</code>, <code>h4</code>, <code>h5</code> y <code>h6</code>."
 	  ],
-      "namePt": "Títulos com elementos H2",
+      "namePt": "Waypoint: Títulos com elementos H2",
       "descriptionPt": [
-         "Adicionar uma tag <code>h2</code> que diz \"CatPhotoApp\" para criar um segundo <code>elemento</code> HTML  abaixo do seu \"Hello World\" elemento <code>h1</code>. ",
-         "O elemento<code> h2 </code> que irá digitou irá criar um elemento <code>h2</code> no site.",
-         "Este elemento diz ao navegador como irá processar o texto que ele contém.",
-         "Elementos <code>h2</code> são ligeiramente menores do que elementos <code>h1</code>. Há também elementos <code>h3</code>,<code>H4</code>,<code>h5</code> e <code>h6</code>."
+        "Adicionar uma tag <code>h2</code> que diz \"CatPhotoApp\" para criar um segundo <code>elemento</code> HTML  abaixo do seu \"Hello World\" elemento <code>h1</code>. ",
+        "O elemento<code> h2 </code> que irá digitou irá criar um elemento <code>h2</code> no site.",
+        "Este elemento diz ao navegador como irá processar o texto que ele contém.",
+        "Elementos <code>h2</code> são ligeiramente menores do que elementos <code>h1</code>. Há também elementos <code>h3</code>,<code>H4</code>,<code>h5</code> e <code>h6</code>."
       ]
     },
     {
@@ -210,8 +210,13 @@
         "Agregar comentarios es también una forma conveniente de desactivar tu código sin tener que borrarlo por completo.",
         "Puedes comenzar un comentario con <code>&#60;!--</code> y terminar de comentar con <code>--&#62;</code>."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Descomentando HTML",
+      "descriptionPt": [
+        "Descomente os seus elementos <code>h1</code>, <code>h2</code> e <code>p</code>.",
+        "Comentar é uma maneira de deixar mensagens dentro do seu código sem afetá-lo.",
+        "Criar comentários também é uma forma conveniente de deixar o seu código inativo sem precisar apagá-lo completamente.",
+        "Você pode iniciar um comentário com <code>&#60;!--</code> e terminar um comentário com <code>--&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08804",
@@ -252,8 +257,12 @@
         "Recuerda que para comenzar un comentario, necesitas usar <code>&#60;!--</code> y para terminar un comentario, necesitas usar <code>--&#62;</code>.",
         "Aquí necesitarás terminar el comentario antes que comience el elemento h2."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Comentando HTML",
+      "descriptionPt": [
+        "Comente os elementos <code>h1</code> e <code>p</code>, mas deixe o elemento <code>h2</code> descomentado.",
+        "Lembre-se que para iniciar um comentário, você precisa usar <code>&#60;!--</code> e para terminar um comentário, você precisa usar <code>--&#62;</code>.",
+        "Aqui você precisará terminar o comentário antes do início do elemento <code>h2</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08833",
