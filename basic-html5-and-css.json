@@ -2265,7 +2265,7 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt":  "Waypoint: Junte vários elementos dentro de um unico Div elemento"
+      "namePt":  "Waypoint: Junte vários elementos dentro de um unico Div elemento",
       "descriptionPt": [
         "Junte as suas listas de \"Coisas que gatos adoram\" e \"Coisas que gatos odeiam\" dentro de um único <code>div</code> elemento.",
         "O <code>div</code> elemento, ou \"Division\" elemento, e um conteiner com proposito geral para outros elementos.",
