@@ -1917,8 +1917,15 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um conjunto de Radio Buttons",
+      "descriptionPt": [
+        "Adicione em seu formulário um par de Radio Buttons. Cada radio button devera ser conglomerado entre o próprio elemento <code>label</code>. Eles deverão compartilhar um atributo em comum <code>name</code>. Um devera ter a opção \"indoor\" e o outro devera ter a opção \"outdoor\"",
+        "Você pode usar radio buttons para questões onde você queira que o usuário apenas escolha uma resposta.",
+        "Radio buttons são um tipo de <code>input</code>.",
+        "Cada um dos seus radio buttons devera ser conglomerado com os seus próprios elementos <code>label</code>.",
+        "Todos os radio buttons relatados deverão ter o mesmo <code>name</code> atributo.",
+        "Veja a seguinte um exemplo de radio button: <code>&#60;label&#62;&#60;input type='radio' name='indoor-outdoor'&#62; Indoor&#60;/label&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08835",
@@ -1997,8 +2004,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um conjunto de Checkboxes",
+      "descriptionPt": [
+        "Adicione no o seu formulário um conjunto de três elementos checkbox. Cada checkbox devera ser conglomerado dentro do próprio <code>label</code> elemento. Todos os três deverão compartilhar o <code>name</code> atributo de \"personality\".",
+        "Formulários geralmente utilizam entradas checkbox para questões que talvez tenham mais que uma resposta.",
+        "Por exemplo: <code>&#60;label&#62;&#60;input type='checkbox' name='personality'&#62; Loving&#60;/label&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aede18835",
@@ -2076,8 +2087,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Organize o seu formulário utilizando Linebreaks",
+      "descriptionPt": [
+        "Organize o seu formulário adicionando linebreak entre os elementos"
+        "Lembre-se que você pode criar uma elemento linebreak utilizando o código: <code>&#60;br&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedd08835",
@@ -2159,8 +2173,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Transforme Radio Buttons e Checkboxes como padrão.",
+      "descriptionPt": [
+        "Passe para padrão o primeiro do seus radio buttons e o primeiro das suas checkboxes.", 
+        "Você pode passar a checkbox ou o radio button para ser marcado como padrão utilizando do código <code>checked</code>.",
+        "Para fazer isso, apenas adicione a palavra \"checked\" dentro de um elemento input. Por exemplo, <code>&#60;input type='radio' name='test-name' checked&#62;</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aede08835",
@@ -2247,8 +2265,15 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt":  "Waypoint: Junte muitos elementos dentro de um unico Div elemento"
+      "descriptionPt": [
+        "Junte as suas listas de \"Coisas que gatos adoram\" e \"Coisas que gatos odeiam\" dentro de um único <code>div</code> elemento.",
+        "O <code>div</code> elemento, ou \"Division\" elemento, e um conteiner com proposito geral para outros elementos.",
+        "O <code>div</code> elemento e provavelmente o elemento HTML mais comum de todos. Ele e útil para passar o CSS dentro de todos os elementos que estão contidos dentro do div declarado.",
+        "Da mesma forma que outros elementos que não possuem fechamento automático, você pode abrir um <code>div</code> como <code>&#60;div&#62;</code> e fechar ele com outra linha de código como <code>&#60;/div&#62;</code>.",
+        "Tente colocar o tag <code>div</code> acima do seu \"Coisas que gatos adoram\" <code>p</code> elemento e o tag de fechamento do <code>div</code> apos o fechamento do tag <code>ol</code> e então as suas duas listas estarão dentro de um <code>div</code>"
+      ],
+        ]
     },
     {
       "_id": "bad87fee1348bd9aede07836",
