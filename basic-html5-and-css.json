@@ -2006,7 +2006,7 @@
       "descriptionEs": [],
       "namePt": "Waypoint: Crie um conjunto de Checkboxes",
       "descriptionPt": [
-        "Adicione no o seu formulário um conjunto de três elementos checkbox. Cada checkbox devera ser conglomerado dentro do próprio <code>label</code> elemento. Todos os três deverão compartilhar o <code>name</code> atributo de \"personality\".",
+        "Adicione em seu formulário um conjunto de três elementos checkbox. Cada checkbox devera ser conglomerado dentro do próprio <code>label</code> elemento. Todos os três deverão compartilhar o <code>name</code> atributo de \"personality\".",
         "Formulários geralmente utilizam entradas checkbox para questões que talvez tenham mais que uma resposta.",
         "Por exemplo: <code>&#60;label&#62;&#60;input type='checkbox' name='personality'&#62; Loving&#60;/label&#62;</code>."
         ]
@@ -2265,7 +2265,7 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt":  "Waypoint: Junte muitos elementos dentro de um unico Div elemento"
+      "namePt":  "Waypoint: Junte vários elementos dentro de um unico Div elemento"
       "descriptionPt": [
         "Junte as suas listas de \"Coisas que gatos adoram\" e \"Coisas que gatos odeiam\" dentro de um único <code>div</code> elemento.",
         "O <code>div</code> elemento, ou \"Division\" elemento, e um conteiner com proposito geral para outros elementos.",
