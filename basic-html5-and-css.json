@@ -430,8 +430,16 @@
         "Dentro de ese elemento style, puedes crear un <code>selector css</code> para todos los elementos <code>h2</code>. Por ejemplo, si querías que todos los elementos <code>h2</code> sean rojos, tu elemento style se vería así: <code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
         "Fíjate que es importante tener <code>llaves de apertura y de cierre</code> (<code>{</code> y <code>}</code>) alrededor del estilo para cada elemento. También necesitas asegurarte que el estilo para tu elemento está entre las etiquetas style de apertura y cierre. Finalmente, asegúrate de agregar el punto y coma al final de cada uno de los estilos de tu elemento."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Use seletores CSS para Estilizar seus Elementos",
+      "descriptionPt": [
+        "Delete o atributo <code>h2</code> do estilo de elemento em vez de criar um <code>estilo</code> CSS.Adicione o CSS necessário para transformar todos <code>h2</code> elementos em azul.",
+        "No CSS existem centenas \"atributos\" CSS que você pode usar para mudar a maneira como um elemento é visualizado na sua página.",
+        "Quando você entra com <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>,você está dizendo que aquele elemento indivídual <code>h2</code> está \"inline style\".",
+        "Essa é uma maneira de adicionar estilo a um elemento,mas a melhor maneira é usando Cascading Style Sheets (CSS).",
+        "No início do seu código, crie um elemento <code>style</code> como este: <code>&#60;style&#62;&#60;/style&#62;</code>.",
+        "Dentro desse elemento de estilo, você pode criar um \"seletor CSS\"para todos elementos <code>h2</code>. Por exemplo, se você queria que todos os seus elementos <code>h2</ code> sejam vermelhos , o seu estilo nesse elemento ficaria assim:<code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
+        "Note que é importante fazer a abertura e fechamento das chaves (<code> {</code> and <code>} </ code>) em torno do estilo de cada elemento. Você também precisa ter certeza que o estilo do seu elemento está entre a abertura e fechando das tags de estilos.Finalmente,não se esqueça de adicionar o ponto e vírgula ao final de cada um dos estilos de seu elemento."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aecf08806",
@@ -471,8 +479,17 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Use uma classe CSS para Estilizar um Elemento",
+      "descriptionPt": [
+      "Crie uma classe CSS chamada \"red-text\" e aplique ao seu elemento <code>h2</code>.",
+        "As classes são estilos reutilizáveis ​​que podem ser adicionados a elementos HTML.",
+        "Aqui está um modelo de uma classe CSS:",
+        "<img class='img-responsive' alt='um diagrama de como as tags estilizadas são compostas,o que é também descrito em detalhes nas linhas abaixo.'src='https://www.evernote.com/l/AHSCzZV0l_dDLrqD8r9JsHaBWfEzdN0OpRwB/image.png'/>",
+        "Você pode ver que nós criamos uma classe CSS chamada \"blue-text\" dentro de uma tag <code>&#60;style&#62;</code>.",
+        "Você pode aplicar uma classe a um elemento HTML como este: <code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;/h2&#62;</code>.",
+        "Note que o seu elemento de <code>estilo</code> CSS,as classes devem começar com um ponto.Nas suas declarações de classes em elementos HTML,as classes não devem começar com um ponto.",
+        "Em vez de criar um novo elemento de <code>estilo</code>, tente remover o <code>h2</code> da declaração do seu elemento de estilo existente,e em seguida substitua com a declaração da classe para \".red-text\"."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aefe08806",
@@ -509,8 +526,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Múltiplos elementos de estilo com uma classe CSS",
+      "descriptionPt": [
+        "Aplique a classe \"red-text\" ao seus elementos <code>h2</code> e <code>p</code>.",
+        "Lembre-se que você pode anexar suas classes HTML usando <code>class=\"your-class-here\"</code> dentro da tag de abertura do elemento mais relevante.",
+        "Lembre-se que seletores CSS requerem um ponto de início como este:<code>.red-text { color: blue; }</code>, mas as declarações de classe não usam um ponto como este:<code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;h2&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08806",
@@ -588,8 +609,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Defina a Font Family de um Elemento",
+      "descriptionPt": [
+        "Faça todo o seu elemento <code>p</code> usar a fonte \"Monospace\".",
+        "Você pode definir a fonte de um elemento usando o atributo \"font-family\".",
+        "Por exemplo, se você quisesse definir a fonte do seu elemento <code>h2</code> com \"Sans-serif\", você deveria usar o seguinte código CSS:<code>h2{font-family: sans-serif;} </code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08807",
@@ -633,8 +658,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Importe uma fonte do Google Font",
+      "descriptionPt": [
+        "Aplicar a <code>font-family</code> da \"Lobster\" ao seu elemento <code>h2</code>.",
+        "Primeiro,você precisa fazer uma \"chamada\" para o Google para pegar a fonte \"Lobster\" e carregá-la em seu HTML.",
+        "Copie o seguinte trecho de código e cole-o no seu editor de código,acima do seu elemento <code>style</code>:",
+        "<code>&#60;link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'&#62;</code>.",
+        "Agora você pode definir \"Lobster\" como um atributo font-family do seu elemento <code>h2</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08808",
@@ -682,8 +713,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Especificando como as fontes são substituidas quando não estão disponíveis ",
+      "descriptionPt": [
+       "Faça todo o seu elemento <code>h2</code> usar \"Lobster\" como a sua font family, mas será substituidos pela fonte \"Monospace\" quando a fonte \"Lobster\" não estiver disponível.",
+        "Você pode deixar fonte \"Lobster\" no seu elemento <code>h2</ code>, e poderá \"substitui-lo\" para uma fonte diferente quando fonte \"Lobster\" não estiver disponível.",
+        "Por exemplo,se você queria um elemento para usar a fonte \"Helvetica\", mas também uma que substitua a fonte \"sans-serif\" quando a fonte \"Helvetica\" não estiver disponível, você pode fazer uso deste estilo CSS : <code>p { font-family: Helvetica, Sans-Serif; }</code>.",
+        "Existem várias fontes padrão que estão disponíveis em todos os navegadores.Estes incluem \"Monospace\", \"Serif\" e \"sans-serif\".Veja se você pode definir seus elementos <code>h2</code> e usar \"Lobster\" e substituir por \"Monospace\".",
+        "Agora tente comentar a sua chamada para o Google Fonts, de modo que o fonte \"Lobster\" não estará disponível.Observe como ela é substituida pela fonte \"Monospace\"".
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08809",
@@ -738,8 +775,18 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Sobreposição de Elementos com 'Important'",
+      "descriptionPt": [
+        "Crie uma classe \"urgently-red\" que atribui ao elemento a cor da fonte vermelha ,mas adicione <code>!important</code> a classe para garantir que o elemento é processado como sendo vermelho.Imediatamente abaixo da sua declaração da classe \"urgently-red\" crie uma classe \"blue-text\" que atribuira ao elemento a cor de fonte azul.Aplique ambas as classes no seu elemento <code>h2</code>.",
+        "Você pode adicionar mais de uma classe a um elemento separando as declarações de classe com um espaço, como este:<code>&#60;h2 class='green-text giant-text'&#62;Este será um texto verde gigante text&#60;/h2&#62;</code>.",
+        "Às vezes,elementos HTML receberão informações conflitantes de classes CSS e de como eles devem ser estilizados.",
+        "Se há um conflito no CSS, o navegador irá usar qualquer estilo de declaração é a mais próxima à parte inferior do documento CSS (qualquer declaração vem por último). Note que estilos in-line são a autoridade final na forma como um elemento HTML será renderizado. ",
+        "Não há uma maneira de garantir que um elemento será processado com um certo estilo, independentemente de onde essa declaração está localizado.Uma maneira de garantir isso é usar <code>!important</code>.",
+        "No caso de você estiver curioso, esta é a hierarquia de prioridade para estilos de elementos:<code>!important</code> supera o inline styles,supera classes CSS seletores  ,que supera seletor CSS.Ou seja,<code>!important</code> supera todos os outros estilos e estilos inline triunfando sobre as declarações de tag.",
+        "Aqui está um exemplo de um estilo CSS que usa <code>!important</code>: <code>&#60;style&#62; .urgently-blue { color: blue !important; } &#60;/style&#62;</code>.",
+        "Agora veja se você pode garantir que o elemento <code>h2</code> é processado na cor vermelha, sem retirar a classe \"blue-text\" fazendo um estilo in-line, e sem alterar a sequência de declaração das classes CSS".
+
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08812",
@@ -786,8 +833,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicionar imagens ao seu site",
+      "descriptionPt": [
+        "Use um elemento <code>img</code> para adicionar uma imagem <code>http://bit.ly/fcc-kittens</code> ao seu site.",
+        "Você pode adicionar imagens para o seu site usando o elemento <code>img</code> e apontar para uma URL de uma imagem específica usando o atributo <code>src</code>.",
+        "Um exemplo disso seria <code>&#60img src=\"www.your-image-source.com/your-image.jpg\"/&#62</code>.Note que na maioria dos casos os elementos <code>img</code> são de fechamento automático.",
+        "Experimente-o com esta imagem: <code>http://bit.ly/fcc-kittens</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9acdf08812",
@@ -835,8 +887,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Tamanhos de suas imagens",
+      "descriptionPt": [
+        "Crie uma classe chamada <code>smaller-image</code> e use-a para redimensionar a imagem de modo que tenha apenas 100 pixels de largura.",
+        "CSS tem um atributo chamado <code>width</code> que controla a largura do elemento.Assim como as fontes nós vamos usar pixels(px) para especificar a largura da imagem.",
+        "Por exemplo,se quiséssemos criar uma classe CSS chamada \"larger-image\" que atribui aos elementos HTML uma largura de 500 pixels,nós usaríamos:<code>&#60;style&#62; .larger-image { width: 500px; } &#60;/style&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9bedf08813",
@@ -890,8 +946,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicionar bordas ao redor de seus elementos",
+      "descriptionPt": [
+        "Crie uma classe chamada \"thick-green-border\" que atribua 10-pixels-wide de green border com um estilo \"solid\" em torno do elemento HTML e aplique essa classe na sua cat photo.",
+        "Bordas CSS tem atributos como estilos,cores e larguras.",
+        "Por exemplo,se quisessemos criar uma borda vermelha de 5 pixels em torno de um elemento HTML,nós poderiamos usar esta classe:<code>&#60;style&#62; .thin-red-border { border-color: red; border-width: 5px; border-style: solid; } &#60;/style&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08814",
@@ -949,8 +1009,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione cantos arredondados com o Border Radius",
+      "descriptionPt": [
+        "Dê a sua cat photo um <code>border-radius</code> de 10 pixels.",
+        "Sua cat photo tem atualmente cantos afiados.Podemos arrendondar esses cantos com um atributo CSS chamado <code>border-radius</code>.",
+        "Você pode especificar um <code>border-radius</code> com pixels.Isto irá afetar a forma como os cantos serão arrendondados.Adicione este atributo na sua classe <code>thick-green-border</code> e configure para possuir 10 pixels".
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08815",
@@ -1007,8 +1071,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Faça Imagens com forma circular com o Border Radius",
+      "descriptionPt": [
+        "Dê a sua cat photo um <code>border-radius</code> de 50%.",
+        "Além dos pixels você também pode especificar um <code>border-radius</code> usando porcentagem."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08816",
@@ -1069,8 +1136,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Link para páginas externas com elementos Âncora",
+      "descriptionPt": [
+        "Crie um elemento <code>a</ code> ou \"elemento âncora\", que link o http://catphotoapp.com e tenha \"cat photos\" como seu texto link ou \"texto âncora\".",
+         "Aqui está um diagrama do elemento <code>a</code>. Neste caso, ele é usado no meio de um elemento de parágrafo, o que significa que o seu link aparece no meio de sua sentença.",
+         "<img class='img-responsive' alt='um diagrama de como tags âncoras são compostas com o mesmo texto da linha a seguir' src='https://www.evernote.com/l/AHSaNaepx_lG9LhhPkVYmagcedpmAeITDsQB/image.png'/>",
+         "Aqui está um exemplo: <code>&#60;p&#62;Here's a &#60;a href='http://freecodecamp.com'&#62; link para Free Code Camp&#60;/a&#62; para você seguir.&#60;/p&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aede08817",
@@ -1136,8 +1208,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Envolva um elemento âncora dentro de um parágrafo",
+      "descriptionPt": [
+        "Agora envolva um elemento <code>a</code> dentro de um elemento <code>p</code> para que o parágrafo em volta diga \"click here for cat photos\",mas onde apenas \"cat photos\" seja um link e o resto deve ser texto simples.",
+         "Mais uma vez aqui está um diagrama de um elemento <code>a</code> para sua referência:",
+         "<img class='img-responsive' alt ='um diagrama de como tags de âncora são compostas com o mesmo texto na linha seguinte' src = https://www.evernote.com/l/AHSaNaepx_lG9LhhPkVYmagcedpmAeITDsQB/image.png'/>",
+         "Aqui está um exemplo:<code>&#60;p&#62;Here's a &#60; a href='http://freecodecamp.com'&#62; link para Free Code Camp&#60;/a&#62; para você seguir.&#60;/p&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08817",
@@ -1198,8 +1275,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Faça links vazios usando o símbolo Hash(Jogo da Velha)",
+      "descriptionPt": [
+        "Use o símbolo jogo da velha (#) para transformar o seu link do elemento <code>a</code> em um link vazio.",
+         "Às vezes você quer adicionar elementos <code>a</code> para o seu site antes que você saiba onde eles vão se linkar.",
+         "Isso também é útil quando você está mudando o comportamento de um link usando <code>jQuery</code> que vamos aprender sobre ele mais tarde.",
+         "Substitua o elemento <code>a</code> do atributo <code>href</code> com um símbolo de hash(jogo da velha) para transformá-lo em um link vazio."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08820",
