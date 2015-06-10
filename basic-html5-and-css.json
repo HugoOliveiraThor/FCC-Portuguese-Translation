@@ -123,11 +123,11 @@
 	  ],
       "namePt": "Waypoint: Trabalhe com o Elemento Parágrafo",
       "descriptionPt": [
-      	"Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
+        "Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
         "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
         "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
       
-      	]
+      ]
     },
     {
       "_id": "bad87fee1348bd9aeaf08801",
@@ -161,12 +161,12 @@
         "Fíjate que <code>&#60;br&#47&#62</code> no tiene etiqueta de cierre. Es un elemento <code>auto-cerrado</code>. ¿Ves cómo un / precede el signo de cierre (>)?",
         "Luego te encontrarás con otras etiquetas de elementos <code>auto-cerrados</code>."
       ],
-      "namePt": "WayPoint : Separe visualmente os elementos atravês de quebra de linhas",
+      "namePt": "WayPoint : Separe visualmente os elementos atravês de quebra de linhas ",
       "descriptionPt": [
-      	"Adicione um elemento <code>br<code> á uma página , preferencialmente entre dois de seus elementos .",
-       "Elementos <code>br</code> também conhecidos como elementos \"quebra de linha\" , podem ser criados atravês com <code>&#60;br&#62</code>.",
-       "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".,
-       "Você irá encontrar outras tags de elementos de fechamento automático em breve." 
+      "Adicione um elemento <code>br<code> á uma página , preferencialmente entre dois de seus elementos .",
+      "Elementos <code>br</code> também conhecidos como elementos \"quebra de linha\" , podem ser criados atravês com <code>&#60;br&#62</code>.",
+      "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".,
+      "Você irá encontrar outras tags de elementos de fechamento automático em breve."      
       ]
     },
     {
@@ -342,8 +342,12 @@
         "Nuestro teléfono no tiene mucho espacio para elementos HTML.",
         "Removamos los elementos innecesarios para que empecemos a construir nuestra CatPhotoApp."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Delete Elementos HTML",
+      "descriptionPt": [
+        "Delete seu elemento <code>h1</code> e <code>br</code> para que possamos simplificar nossa visão.",
+        "Nosso telefone não possui muito espaço vertical.",
+        "Vamos remover os elementos desnecessários para que possamos inicar a criação do nosso CatPhotoApp."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08803",
@@ -377,8 +381,13 @@
         "El estilo responsable del color de texto de un elemento es el estilo \"color\".",
         "Así es como podrías volver el color de texto de tu elemento <code>h2</code> en azul: <code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint : Mudando a cor do Texto",
+      "descriptionPt": [
+        "Mude o estilo do elemento <code>h2</code> para que o texto seja exibido em vermelho.",
+        "Nós podemos fazer isso mudando o \"style\" do nosso elemento <code>h2</code>.",
+        "O estilo que é responsável pelo cor do elemento de texto é \"color\" style.",
+        "Aqui está como você deve setar seu elemento <code>h2</code> de texto para a cor azul : <code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08805",
@@ -421,8 +430,16 @@
         "Dentro de ese elemento style, puedes crear un <code>selector css</code> para todos los elementos <code>h2</code>. Por ejemplo, si querías que todos los elementos <code>h2</code> sean rojos, tu elemento style se vería así: <code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
         "Fíjate que es importante tener <code>llaves de apertura y de cierre</code> (<code>{</code> y <code>}</code>) alrededor del estilo para cada elemento. También necesitas asegurarte que el estilo para tu elemento está entre las etiquetas style de apertura y cierre. Finalmente, asegúrate de agregar el punto y coma al final de cada uno de los estilos de tu elemento."
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Use seletores CSS para Estilizar seus Elementos",
+      "descriptionPt": [
+        "Delete o atributo <code>h2</code> do estilo de elemento em vez de criar um <code>estilo</code> CSS.Adicione o CSS necessário para transformar todos <code>h2</code> elementos em azul.",
+        "No CSS existem centenas \"atributos\" CSS que você pode usar para mudar a maneira como um elemento é visualizado na sua página.",
+        "Quando você entra com <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>,você está dizendo que aquele elemento indivídual <code>h2</code> está \"inline style\".",
+        "Essa é uma maneira de adicionar estilo a um elemento,mas a melhor maneira é usando Cascading Style Sheets (CSS).",
+        "No início do seu código, crie um elemento <code>style</code> como este: <code>&#60;style&#62;&#60;/style&#62;</code>.",
+        "Dentro desse elemento de estilo, você pode criar um \"seletor CSS\"para todos elementos <code>h2</code>. Por exemplo, se você queria que todos os seus elementos <code>h2</ code> sejam vermelhos , o seu estilo nesse elemento ficaria assim:<code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
+        "Note que é importante fazer a abertura e fechamento das chaves (<code> {</code> and <code>} </ code>) em torno do estilo de cada elemento. Você também precisa ter certeza que o estilo do seu elemento está entre a abertura e fechando das tags de estilos.Finalmente,não se esqueça de adicionar o ponto e vírgula ao final de cada um dos estilos de seu elemento."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aecf08806",
@@ -462,8 +479,17 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Use uma classe CSS para Estilizar um Elemento",
+      "descriptionPt": [
+      "Crie uma classe CSS chamada \"red-text\" e aplique ao seu elemento <code>h2</code>.",
+        "As classes são estilos reutilizáveis ​​que podem ser adicionados a elementos HTML.",
+        "Aqui está um modelo de uma classe CSS:",
+        "<img class='img-responsive' alt='um diagrama de como as tags estilizadas são compostas,o que é também descrito em detalhes nas linhas abaixo.'src='https://www.evernote.com/l/AHSCzZV0l_dDLrqD8r9JsHaBWfEzdN0OpRwB/image.png'/>",
+        "Você pode ver que nós criamos uma classe CSS chamada \"blue-text\" dentro de uma tag <code>&#60;style&#62;</code>.",
+        "Você pode aplicar uma classe a um elemento HTML como este: <code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;/h2&#62;</code>.",
+        "Note que o seu elemento de <code>estilo</code> CSS,as classes devem começar com um ponto.Nas suas declarações de classes em elementos HTML,as classes não devem começar com um ponto.",
+        "Em vez de criar um novo elemento de <code>estilo</code>, tente remover o <code>h2</code> da declaração do seu elemento de estilo existente,e em seguida substitua com a declaração da classe para \".red-text\"."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aefe08806",
@@ -500,8 +526,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Múltiplos elementos de estilo com uma classe CSS",
+      "descriptionPt": [
+        "Aplique a classe \"red-text\" ao seus elementos <code>h2</code> e <code>p</code>.",
+        "Lembre-se que você pode anexar suas classes HTML usando <code>class=\"your-class-here\"</code> dentro da tag de abertura do elemento mais relevante.",
+        "Lembre-se que seletores CSS requerem um ponto de início como este:<code>.red-text { color: blue; }</code>, mas as declarações de classe não usam um ponto como este:<code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;h2&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08806",
@@ -579,8 +609,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Defina a Font Family de um Elemento",
+      "descriptionPt": [
+        "Faça todo o seu elemento <code>p</code> usar a fonte \"Monospace\".",
+        "Você pode definir a fonte de um elemento usando o atributo \"font-family\".",
+        "Por exemplo, se você quisesse definir a fonte do seu elemento <code>h2</code> com \"Sans-serif\", você deveria usar o seguinte código CSS:<code>h2{font-family: sans-serif;} </code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08807",
@@ -624,8 +658,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "WayPoint: Importe uma fonte do Google Font",
+      "descriptionPt": [
+        "Aplicar a <code>font-family</code> da \"Lobster\" ao seu elemento <code>h2</code>.",
+        "Primeiro,você precisa fazer uma \"chamada\" para o Google para pegar a fonte \"Lobster\" e carregá-la em seu HTML.",
+        "Copie o seguinte trecho de código e cole-o no seu editor de código,acima do seu elemento <code>style</code>:",
+        "<code>&#60;link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'&#62;</code>.",
+        "Agora você pode definir \"Lobster\" como um atributo font-family do seu elemento <code>h2</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08808",
@@ -673,8 +713,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Especificando como as fontes são substituidas quando não estão disponíveis ",
+      "descriptionPt": [
+       "Faça todo o seu elemento <code>h2</code> usar \"Lobster\" como a sua font family, mas será substituidos pela fonte \"Monospace\" quando a fonte \"Lobster\" não estiver disponível.",
+        "Você pode deixar fonte \"Lobster\" no seu elemento <code>h2</ code>, e poderá \"substitui-lo\" para uma fonte diferente quando fonte \"Lobster\" não estiver disponível.",
+        "Por exemplo,se você queria um elemento para usar a fonte \"Helvetica\", mas também uma que substitua a fonte \"sans-serif\" quando a fonte \"Helvetica\" não estiver disponível, você pode fazer uso deste estilo CSS : <code>p { font-family: Helvetica, Sans-Serif; }</code>.",
+        "Existem várias fontes padrão que estão disponíveis em todos os navegadores.Estes incluem \"Monospace\", \"Serif\" e \"sans-serif\".Veja se você pode definir seus elementos <code>h2</code> e usar \"Lobster\" e substituir por \"Monospace\".",
+        "Agora tente comentar a sua chamada para o Google Fonts, de modo que o fonte \"Lobster\" não estará disponível.Observe como ela é substituida pela fonte \"Monospace\"".
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08809",
@@ -729,8 +775,18 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Sobreposição de Elementos com 'Important'",
+      "descriptionPt": [
+        "Crie uma classe \"urgently-red\" que atribui ao elemento a cor da fonte vermelha ,mas adicione <code>!important</code> a classe para garantir que o elemento é processado como sendo vermelho.Imediatamente abaixo da sua declaração da classe \"urgently-red\" crie uma classe \"blue-text\" que atribuira ao elemento a cor de fonte azul.Aplique ambas as classes no seu elemento <code>h2</code>.",
+        "Você pode adicionar mais de uma classe a um elemento separando as declarações de classe com um espaço, como este:<code>&#60;h2 class='green-text giant-text'&#62;Este será um texto verde gigante text&#60;/h2&#62;</code>.",
+        "Às vezes,elementos HTML receberão informações conflitantes de classes CSS e de como eles devem ser estilizados.",
+        "Se há um conflito no CSS, o navegador irá usar qualquer estilo de declaração é a mais próxima à parte inferior do documento CSS (qualquer declaração vem por último). Note que estilos in-line são a autoridade final na forma como um elemento HTML será renderizado. ",
+        "Não há uma maneira de garantir que um elemento será processado com um certo estilo, independentemente de onde essa declaração está localizado.Uma maneira de garantir isso é usar <code>!important</code>.",
+        "No caso de você estiver curioso, esta é a hierarquia de prioridade para estilos de elementos:<code>!important</code> supera o inline styles,supera classes CSS seletores  ,que supera seletor CSS.Ou seja,<code>!important</code> supera todos os outros estilos e estilos inline triunfando sobre as declarações de tag.",
+        "Aqui está um exemplo de um estilo CSS que usa <code>!important</code>: <code>&#60;style&#62; .urgently-blue { color: blue !important; } &#60;/style&#62;</code>.",
+        "Agora veja se você pode garantir que o elemento <code>h2</code> é processado na cor vermelha, sem retirar a classe \"blue-text\" fazendo um estilo in-line, e sem alterar a sequência de declaração das classes CSS".
+
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08812",
@@ -777,8 +833,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicionar imagens ao seu site",
+      "descriptionPt": [
+        "Use um elemento <code>img</code> para adicionar uma imagem <code>http://bit.ly/fcc-kittens</code> ao seu site.",
+        "Você pode adicionar imagens para o seu site usando o elemento <code>img</code> e apontar para uma URL de uma imagem específica usando o atributo <code>src</code>.",
+        "Um exemplo disso seria <code>&#60img src=\"www.your-image-source.com/your-image.jpg\"/&#62</code>.Note que na maioria dos casos os elementos <code>img</code> são de fechamento automático.",
+        "Experimente-o com esta imagem: <code>http://bit.ly/fcc-kittens</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9acdf08812",
@@ -826,8 +887,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Tamanhos de suas imagens",
+      "descriptionPt": [
+        "Crie uma classe chamada <code>smaller-image</code> e use-a para redimensionar a imagem de modo que tenha apenas 100 pixels de largura.",
+        "CSS tem um atributo chamado <code>width</code> que controla a largura do elemento.Assim como as fontes nós vamos usar pixels(px) para especificar a largura da imagem.",
+        "Por exemplo,se quiséssemos criar uma classe CSS chamada \"larger-image\" que atribui aos elementos HTML uma largura de 500 pixels,nós usaríamos:<code>&#60;style&#62; .larger-image { width: 500px; } &#60;/style&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9bedf08813",
@@ -881,8 +946,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicionar bordas ao redor de seus elementos",
+      "descriptionPt": [
+        "Crie uma classe chamada \"thick-green-border\" que atribua 10-pixels-wide de green border com um estilo \"solid\" em torno do elemento HTML e aplique essa classe na sua cat photo.",
+        "Bordas CSS tem atributos como estilos,cores e larguras.",
+        "Por exemplo,se quisessemos criar uma borda vermelha de 5 pixels em torno de um elemento HTML,nós poderiamos usar esta classe:<code>&#60;style&#62; .thin-red-border { border-color: red; border-width: 5px; border-style: solid; } &#60;/style&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08814",
@@ -940,8 +1009,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione cantos arredondados com o Border Radius",
+      "descriptionPt": [
+        "Dê a sua cat photo um <code>border-radius</code> de 10 pixels.",
+        "Sua cat photo tem atualmente cantos afiados.Podemos arrendondar esses cantos com um atributo CSS chamado <code>border-radius</code>.",
+        "Você pode especificar um <code>border-radius</code> com pixels.Isto irá afetar a forma como os cantos serão arrendondados.Adicione este atributo na sua classe <code>thick-green-border</code> e configure para possuir 10 pixels".
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08815",
@@ -998,8 +1071,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Faça Imagens com forma circular com o Border Radius",
+      "descriptionPt": [
+        "Dê a sua cat photo um <code>border-radius</code> de 50%.",
+        "Além dos pixels você também pode especificar um <code>border-radius</code> usando porcentagem."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08816",
@@ -1060,8 +1136,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Link para páginas externas com elementos Âncora",
+      "descriptionPt": [
+        "Crie um elemento <code>a</ code> ou \"elemento âncora\", que link o http://catphotoapp.com e tenha \"cat photos\" como seu texto link ou \"texto âncora\".",
+         "Aqui está um diagrama do elemento <code>a</code>. Neste caso, ele é usado no meio de um elemento de parágrafo, o que significa que o seu link aparece no meio de sua sentença.",
+         "<img class='img-responsive' alt='um diagrama de como tags âncoras são compostas com o mesmo texto da linha a seguir' src='https://www.evernote.com/l/AHSaNaepx_lG9LhhPkVYmagcedpmAeITDsQB/image.png'/>",
+         "Aqui está um exemplo: <code>&#60;p&#62;Here's a &#60;a href='http://freecodecamp.com'&#62; link para Free Code Camp&#60;/a&#62; para você seguir.&#60;/p&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aede08817",
@@ -1127,8 +1208,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Envolva um elemento âncora dentro de um parágrafo",
+      "descriptionPt": [
+        "Agora envolva um elemento <code>a</code> dentro de um elemento <code>p</code> para que o parágrafo em volta diga \"click here for cat photos\",mas onde apenas \"cat photos\" seja um link e o resto deve ser texto simples.",
+         "Mais uma vez aqui está um diagrama de um elemento <code>a</code> para sua referência:",
+         "<img class='img-responsive' alt ='um diagrama de como tags de âncora são compostas com o mesmo texto na linha seguinte' src = https://www.evernote.com/l/AHSaNaepx_lG9LhhPkVYmagcedpmAeITDsQB/image.png'/>",
+         "Aqui está um exemplo:<code>&#60;p&#62;Here's a &#60; a href='http://freecodecamp.com'&#62; link para Free Code Camp&#60;/a&#62; para você seguir.&#60;/p&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08817",
@@ -1189,8 +1275,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Faça links vazios usando o símbolo Hash(Jogo da Velha)",
+      "descriptionPt": [
+        "Use o símbolo jogo da velha (#) para transformar o seu link do elemento <code>a</code> em um link vazio.",
+         "Às vezes você quer adicionar elementos <code>a</code> para o seu site antes que você saiba onde eles vão se linkar.",
+         "Isso também é útil quando você está mudando o comportamento de um link usando <code>jQuery</code> que vamos aprender sobre ele mais tarde.",
+         "Substitua o elemento <code>a</code> do atributo <code>href</code> com um símbolo de hash(jogo da velha) para transformá-lo em um link vazio."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08820",
@@ -1393,13 +1484,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Monte uma Lista não Ordenada de Marcadores"
-      "descriptionPt": [
-        "Troque os elementos <code>p</code> por uma lista não ordenada de 3 coisas que gatos adoram",
-        "O HTML tem um elemento especial para criar listas não ordenadas, ou listas de marcadores estilo-ponto ",
-        "Listas não ordenadas começam com o elemento  <code>&#60;ul&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
-        "Por exemplo: <code>&#60;ul&#62;&#60;li&#62;milk&#60;/li&#62;&#60;li&#62;cheese&#60;/li&#62;&#60;/ul&#62;</code> iria criar uma lista marcada de \"milk\" e \"cheese\"."
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedf08828",
@@ -1470,13 +1556,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Crie uma Lista Ordenada",
-      "descriptionPt": [ 
-        "Crie uma lista ordenada com as 3 coisas que os gatos mais odeiam.",
-        "O HTML tem um elemento especial para criar listas ordenadas, ou listas com estilo-enumerado",
-        "Listas ordenadas começam com o elemento <code>&#60;ol&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
-        "Por exemplo: <code>&#60;ol&#62;&#60;li&#62;hydrogen&#60;/li&#62;&#60;li&#62;helium&#60;/li&#62;&#60;/ol&#62;</code> iria criar uma lista enumerada de \"hydrogen\" e \"helium\". "
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedf08829",
@@ -1546,12 +1627,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Crie um Campo de Texto",
-      "descriptionPt": [
-        "Agora nós iremos criar um formulário. Crie uma entrada de texto abaixo das suas listas"
-        "Entradas de texto são um modo conveniente de receber dados do seu usuário.",
-        "Você pode criar uma como essa: <code>&#60;input type='text'&#62;</code>. Observe que os elementos <code>input</code> possuem fechamento próprio."
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedf08830",
@@ -1623,12 +1700,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Adicione um Espaço com Texto Reservado no Campo de Texto",
-      "descriptionPt": [
-        "Coloque o valor <code>placeholder</code> do seu texto <code>input</code> para \"cat photo URL\".",
-        "O seu texto reservado sera o que aparecera na sua caixa de texto <code>input</code> antes do seu usuário inserir qualquer informação.",
-        "Você pode criar um texto reservado da seguinte forma: <code>&#60;input type='text' placeholder='this is placeholder text'&#62;</code>."
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aede08830",
@@ -1702,12 +1775,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Crie um Elemento Formulário",
-      "descriptionPt": [
-        "Conglomere o seu campo de texto dentro do elemento <code>form</code>. Adicione o atributo <code>action=\"/submit-cat-photo\"</code> no elemento formulário.",
-        "Você pode montar formulários que possam realmente enviar dados para um servidor usando nada mais do que HTML puro. Você pode fazer isso especificando uma ação no seu elemento <code>form</code>.",
-        "Por exemplo: <code>&#60;form action=\"/url-where-you-want-to-submit-form-data\"&#62;&#60;/form&#62;</code>."
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedd08830",
@@ -1783,12 +1852,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Adicione um botão Enviar em um Formulário",
-      "descriptionPt": [
-        "Adicione um botão enviar na seu elemento <code>form</code> com type \"submit\" e \"Enviar\" como o texto.",
-        "Vamos adicionar o botão Enviar no seu formulário. Clicando nesse botão ira enviar dados do seu formulário para o URL que você especificou com o atributo <code>action</code> no formulário.",
-        "Aqui vai um exemplo do botão Enviar: <code>&#60;button type='submit'&#62;this button submits the form&#60;/button&#62;</code>."
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedc08830",
@@ -1862,12 +1927,8 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Utilize HTML5 para exigir preenchimento obrigatório",
-      "descriptionPt": [        
-        "Faça do seu texto <code>input</code> um campo obrigatório usando \"required\", pois dessa forma o seu usuário não poderá enviar o formulário sem completar o campo obrigatório.",
-        "Você pode exigir campos específicos no formulário fazendo com que o seu usuário não consiga enviar o formulário antes que ele ou ela tenha inserido o informação requisitada.",
-        "Por exemplo, se você quiser fazer um preenchimento de texto obrigatório, você apenas precisa adicionar a palavra \"required\" entre o elemento <code>input</code>, você usaria: <code>&#60;input type='text' required&#62;</code>."
-        ]
+      "namePt": "",
+      "descriptionPt": []
     },
     {
       "_id": "bad87fee1348bd9aedf08834",
@@ -2207,7 +2268,7 @@
       "descriptionEs": [],
       "namePt": "Waypoint: Transforme Radio Buttons e Checkboxes como padrão.",
       "descriptionPt": [
-        "Passe para padrão o primeiro do seus radio buttons e o primeiro das suas checkboxes.", 
+        "Passe para padrão o primeiro do seus radio buttons e o primeiro das suas checkboxes.",
         "Você pode passar a checkbox ou o radio button para ser marcado como padrão utilizando do código <code>checked</code>.",
         "Para fazer isso, apenas adicione a palavra \"checked\" dentro de um elemento input. Por exemplo, <code>&#60;input type='radio' name='test-name' checked&#62;</code>."
         ]
