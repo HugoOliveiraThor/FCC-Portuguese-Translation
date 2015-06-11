@@ -569,8 +569,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Alterar o tamanho da fonte de um elemento",
+      "descriptionPt": [
+        "Crie um segundo elemento <code>p</code>.Em seguida dentro de seu elemento <code>&#60;style&#62;</code> defina o \"font-size\" de todos elementos <code>p</code> com 16 pixels.",
+        "O tamanho da fonte é controlado pelo atributo CSS \"font-size\" como este: <code>h1 {font-size: 30px;}</code>.",
+        "Em primeiro lugar crie um segundo elemento <code>p</code> com o seguinte texto Kitty Ipsum:<code>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</code>",
+        "Veja se você pode descobrir como dar tanto ao seus dois elemento <code>p</code> o tamanho da fonte com 16 pixels (<code>16px</code>).Você pode fazer isso dentro de uma  mesma tag <code>&#60;style&#62;</code> que criamos para a sua classe \"red-text\"."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aede08807",
