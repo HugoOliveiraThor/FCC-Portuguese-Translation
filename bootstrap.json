@@ -997,7 +997,7 @@
       "namePt": "Waypoint: Adicione Icones Font Awesome em nossos Botões.",
       "descriptionPt": [
         "Use Font Awesome para adicionar um icone \"like\" para o nosso botão like.",
-        "Font Awesome é uma biblioteca de ícones conveniente. Esses ícones são vetor gráficos, armazenados dentro do formato de arquivo \".svg\". Esses ícones são tratados apenas como Fontes. Você pode especificar o seu tamanho utilizando pixels, e eles irão assumir o tamanho da fonte do seus principais elementos HTML.",
+        "Font Awesome é uma biblioteca de ícones conveniente. Esses ícones são vetores gráficos, armazenados dentro do formato de arquivo \".svg\". Esses ícones são tratados apenas como Fontes. Você pode especificar o seu tamanho utilizando pixels, e eles irão assumir o tamanho da fonte do seus principais elementos HTML.",
         "Siga em frente e adicione um <code>&#60;i class=\"fa fa-thumbs-up\"&#62;&#60;/i&#62;</code> dentro do seu botão like."
         ]
     },
@@ -1085,8 +1085,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione Icones Font Awesome em todos os nossos Botões",
+      "descriptionPt": [
+        "Utilize Font Awesome para adicionar um ícone \"info-circle\" para o seu botão info e um \"trash\" ícone para o seu botão delete.",
+        "Font Awesome é uma biblioteca de ícones conveniente. Esses ícones são vetores gráficos, armazenados dentro do formato de arquivo \".svg\". Esses ícones são tratados apenas como Fontes. Você pode especificar o seu tamanho utilizando pixels, e eles irão assumir o tamanho da fonte do seus principais elementos HTML.",
+        "Adicione <code>&#60;i class=\"fa fa-info-circle\"&#62;&#60;/i&#62;</code> entre o seu botão info, e um <code>&#60;i class=\"fa fa-trash\"&#62;&#60;/i&#62;</code> entre o seu botão delete."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedb08845",
