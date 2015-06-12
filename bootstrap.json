@@ -85,8 +85,15 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Imagens Responsivas para Mobile",
+      "descriptionPt": [
+         "Agora vamos voltar para a nossa Cat Photo.Desta vez,vamos estiliza-lo usando a estrutura popular do Framework responsivo Twitter Bootstrap CSS.Primeiro,adicione uma nova imagem com o atributo <code>src</code>\"http://bit.ly/fcc-kittens2\" e adicione a classe Bootstrap \"img-responsive\" para essa imagem.",
+        "Seria ótimo se a imagem fosse exatamente da largura da tela de nosso telefone.",
+        "Felizmente nós temos acesso a um Framework Responsive CSS chamado Bootstrap.Você pode adicionar Bootstrap para qualquer aplicativo apenas incluindo-o com <code>&#60;link rel='stylesheet' href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css'/&#62;</code> na parte superior do seu HTML.Mas nós fomos em frente e automaticamente adicionamos ao seu App Cat Photo para você.",
+        "Bootstrap vai descobrir o quão grande é sua tela e se redimensionar aos seus elementos HTML - Daí o nome <code>Designer Responsivo</code>.",
+        "Com o designer responsivo não há necessidade de criar uma versão mobile do seu site.Ele vai se ajustar em dispositivos com telas de qualquer largura.",
+        "Agora tudo o que você precisa fazer é adicionar a classe \"img-responsive\" à sua imagem."
+      ]
     },
     {
       "_id": "bad87fee1348bd8acde08812",
@@ -168,8 +175,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Texto Centralizado com o Bootstrap",
+      "descriptionPt": [
+        "Adicione a classe Bootstrap \"text-center\" ao seu elemento <code>h2</code>.",
+         "Agora que estamos usando Bootstrap,nós podemos centralizar nossos cabeçalhos para torná-los mais apresentáveis.Tudo o que precisamos fazer é adicionar a classe <code>text-center</code> para o nosso elemento <code>h1</code> e <code>h2</code>.",
+         "Lembre-se que você pode adicionar várias classes ao mesmo elemento,separando cada um deles com um espaço como este: <code>&#60h2 class=\"text-red text-center\"&#62your text&#60/h2&#62</code>."
+      ]
     },
     {
       "_id": "bad87fee1348cd8acdf08812",
@@ -252,8 +263,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Criando um botão em Boostrap",
+      "descriptionPt": [
+        "Criar um novo elemento <code>button</code> abaixo da foto do grande gatinho.Atribua a classe \"btn\" o texto de \"like this photo\".",
+        "Bootstrap tem seus próprios estilos para os elementos de <code>button</code> que são muito melhores do que as do HTML."
+      ]
     },
     {
       "_id": "bad87fee1348cd8acef08812",
@@ -340,8 +354,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um Botão Bootstrap Block Element",
+      "descriptionPt": [
+        "Adicione  a classe Bootstrap \"btn-block\" ao seu botão Bootstrap.",
+         "Normalmente o seus elementos <code>button</code> são apenas tão grande como o texto que eles possuem.Ao fazer eles block elements,seu botão irá se esticar para preencher todo o espaço horizontal da sua página.",
+         "Esta imagem ilustra a diferença entre elementos \"inline\" e elementos \"block-level\":",
+         "<img class='img-responsive' src='https://www.evernote.com/l/AHTFU358y71AV6mokPeuTEgrZVdUJ4A8v3AB/image.png' alt='An \"inline\" o botão é tão pequeno quanto o texto que ele contém.Note que a nossa imagem está centralizada.Abaixo é um botão \"block-level\" que se estende até preencher todo o espaço horizontal.'>",
+         "Note que estes botões ainda precisam da classe \"btn\"."
+      ]
     },
     {
       "_id": "bad87fee1348cd8acef08811",
@@ -426,8 +446,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Aprecie a paleta de cores do Botão do Bootstrap",
+      "descriptionPt": [
+         "Adicione a classe Bootstrap \"btn-primary\" para seu botão.",
+         "A classe \"btn-primary\" é a cor principal que você irá usar em seu aplicativo.É útil para destacar as ações que você quer que seu usuário aceite.",
+         "Note que este botão ainda precisam das classes \"btn\" e do \"btn-block\"."
+      ]
     },
     {
       "_id": "bad87fee1348cd8acef08813",
@@ -513,8 +537,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Chamar ações opcionais com o botão Info",
+      "descriptionPt": [
+        "Crie um novo botão Bootstrap em nível de bloco abaixo de seu botão \"Like\" com o texto \"Info\" e adicione as classes do Bootstrap \"btn-info\" e \"btn-block\" à ele.",
+         "Bootstrap vem com várias cores pré-definidas para seus botões.A classe \"btn-info\" é usada para chamar a atenção para ações opcionais que o usuário pode tomar.",
+         "Note que estes botões ainda precisam das classes \"btn\" e \"btn-block\"."
+
+      ]
     },
     {
       "_id": "bad87fee1348ce8acef08814",
