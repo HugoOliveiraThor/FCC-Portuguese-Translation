@@ -448,9 +448,9 @@
       "descriptionEs": [],
       "namePt": "Waypoint: Aprecie a paleta de cores do Botão do Bootstrap",
       "descriptionPt": [
-         "Adicione a classe Bootstrap \"btn-primary\" para seu botão.",
+         "Adicione a classe Bootstrap \"btn-primary\" ao seu botão.",
          "A classe \"btn-primary\" é a cor principal que você irá usar em seu aplicativo.É útil para destacar as ações que você quer que seu usuário aceite.",
-         "Note que este botão ainda precisam das classes \"btn\" e do \"btn-block\"."
+         "Note que este botão ainda precisa das classes \"btn\" e do \"btn-block\"."
       ]
     },
     {
@@ -542,7 +542,6 @@
         "Crie um novo botão Bootstrap em nível de bloco abaixo de seu botão \"Like\" com o texto \"Info\" e adicione as classes do Bootstrap \"btn-info\" e \"btn-block\" à ele.",
          "Bootstrap vem com várias cores pré-definidas para seus botões.A classe \"btn-info\" é usada para chamar a atenção para ações opcionais que o usuário pode tomar.",
          "Note que estes botões ainda precisam das classes \"btn\" e \"btn-block\"."
-
       ]
     },
     {
