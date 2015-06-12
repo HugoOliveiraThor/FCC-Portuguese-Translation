@@ -601,8 +601,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Avise os seus Usuários sobre uma ação perigosa",
+      "descriptionPt": [
+        "Crie um botão com o texto \"Delete\" e de a ele a classe \"btn-danger\".",
+        "Bootstrap vem com varias cores pré-definidas para botões . A classe \"btn-danger\" é uma cor de botão que você ira utilizar para notificar os seus usuários que o botão ira executar uma ação destrutiva, como deletando a foto do gato.",
+        "Observe que esses botões ainda precisam das classes \"btn\" e \"btn-block\"."
+        ]
     },
     {
       "_id": "bad88fee1348ce8acef08815",
@@ -694,8 +698,16 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Use a Grade do Bootstrap para Colocar Elementos Lado a Lado.",
+      "descriptionPt": [
+        "Passe os botões \"Like\", \"Info\" e o \"Delete\" lado-a-lado juntando os três dentro de um elemento <code>&#60;div class=\"row\"&#62;</code>, e então cada um dos elementos dentro de um elemento <code>&#60;div class=\"col-xs-4\"&#62;</code>.",
+        "Bootstrap utiliza de um sistema responsivo de grade, que facilita para colocar elementos dentro de linhas e especificar a largura de cada elemento relativamente. A maioria das classes do Bootstrap pode ser aplicada no elemento <code>div</code> element.",
+        "Veja um diagrama de como o layout de 12-colunas da grade do Bootstrap funciona.",
+        "<a href='http://getbootstrap.com/css/#grid-example-basic' target='_blank'><img class='img-responsive' src='https://www.evernote.com/l/AHTwlE2XCLhGFYJzoye_QfsF3ho6y87via4B/image.png'></a>",
+        "Observe que nessa ilustração, nós usamos a classe <code>col-md-*</code>. Aqui, \"md\" significa \"medium\", e \"*\" é um numero especificando quantas colunas de distancia o elemento devera estar. Nesse caso, nós estamos especificando quantas colunas de distancia um elemento devera ficar uma tela de tamanho médio, como um laptop.",
+        "No Cat Photo App que nós estamos construindo, nós iremos utilizar <code>col-xs-*</code>, onde \"*\" é o numero de colunas o elemento devera estar, e \"xs\" significa \"extras small\", como uma tela de celular super pequena.",
+        "A classe \"row\" é aplicada em uma <code>div</code>, e os botões podem ser aglomerados dentro da <code>div</code>."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedf08845",
@@ -792,8 +804,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Troque CSS Customizado por Bootstrap",
+      "descriptionPt": [
+        "Exclua as declarações CSS \".red-text\", \"p\", e \".smaller-image\" do seu elemento <code>style</code>. E então delete o elemento <code>p</code> que contem o link inativo. E então remova a classe \"red-text\" do seu elemento <code>h2</code> e substitua ele com a classe do Bootstrap chamada \"text-primary\". Finalmente, remova a classe \"smaller-image\" do seu primeiro elemento <code>img</code> e substitua com a classe <code>img-responsive</code.",
+        "Nós podemos organizar o nosso código e fazer o nosso Cat Photo App parecer mais convencional quando utilizamos os estilos próprios do Bootstrap ao invés dos estilos customizados que nós criamos anteriormente.",
+        "Não se preocupe - haverá tempo o suficiente para customizarmos o nosso CSS mais tarde."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aede08845",
@@ -881,8 +897,17 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um Cabeçalho Costumizado.",
+      "descriptionPt": [
+        "Junte a sua primeira imagem e o seu elemento <code>h2</code> dentro de uma única <code>&#60;div class='row'&#62;</code>. Junte o seu texto <code>h2</code> dentro de uma <code>&#60;div class='col-xs-8'&#62;</code> e a sua imagem dentro de uma <code>&#60;div class='col-xs-4'&#62;</code> para que eles permaneçam na mesma linha.",
+        "Nós iremos fazer um cabeçalho simples para o nosso Cat Photo App colocando eles na mesma linha.",
+        "Lembre-se, Bootstrap utiliza um sistema responsivo de grade, que faz com que seja fácil colocar elementos dentro de linhas e especificar a distancia relativa de cada elemento. A maioria das classes do Bootstrap podem ser aplicadas em um elemento <code>div</code>.",
+        "Veja um diagrama de como o layout de 12-colunas da grade do Bootstrap funciona.",
+        "<a href='http://getbootstrap.com/css/#grid' target='_blank'><img class='img-responsive' src='https://www.evernote.com/l/AHTwlE2XCLhGFYJzoye_QfsF3ho6y87via4B/image.png'></a>",
+        "Observe que nessa ilustração, nós usamos a classe <code>col-md-*</code>. Aqui, \"md\" significa \"medium\", e \"*\" é um numero especificando quantas colunas de distancia o elemento devera estar. Nesse caso, nós estamos especificando quantas colunas de distancia um elemento devera ficar uma tela de tamanho médio, como um laptop.",
+        "No Cat Photo App que nós estamos construindo, nós iremos utilizar <code>col-xs-*</code>, onde \"*\" é o numero de colunas o elemento devera estar, e \"xs\" significa \"extras small\", como uma tela de celular super pequena.",
+        "Percebeu como a imagem agora esta do tamanho correto para encaixar junto ao texto?"
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedd08845",
@@ -969,8 +994,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione Icones Font Awesome em nossos Botões.",
+      "descriptionPt": [
+        "Use Font Awesome para adicionar um icone \"like\" para o nosso botão like.",
+        "Font Awesome é uma biblioteca de ícones conveniente. Esses ícones são vetor gráficos, armazenados dentro do formato de arquivo \".svg\". Esses ícones são tratados apenas como Fontes. Você pode especificar o seu tamanho utilizando pixels, e eles irão assumir o tamanho da fonte do seus principais elementos HTML.",
+        "Siga em frente e adicione um <code>&#60;i class=\"fa fa-thumbs-up\"&#62;&#60;/i&#62;</code> dentro do seu botão like."
+        ]
     },
     {
       "_id": "bad87fee1348bd9aedc08845",
