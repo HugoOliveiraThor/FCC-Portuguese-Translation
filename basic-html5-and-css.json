@@ -126,7 +126,6 @@
         "Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
         "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
         "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
-      
       ]
     },
     {
@@ -165,8 +164,8 @@
       "descriptionPt": [
       "Adicione um elemento <code>br<code> á uma página , preferencialmente entre dois de seus elementos .",
       "Elementos <code>br</code> também conhecidos como elementos \"quebra de linha\" , podem ser criados atravês com <code>&#60;br&#62</code>.",
-      "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".,
-      "Você irá encontrar outras tags de elementos de fechamento automático em breve."      
+      "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".",
+      "Você irá encontrar outras tags de elementos de fechamento automático em breve."
       ]
     },
     {
@@ -2371,7 +2370,6 @@
         "Da mesma forma que outros elementos que não possuem fechamento automático, você pode abrir um <code>div</code> como <code>&#60;div&#62;</code> e fechar ele com outra linha de código como <code>&#60;/div&#62;</code>.",
         "Tente colocar o tag <code>div</code> acima do seu \"Coisas que gatos adoram\" <code>p</code> elemento e o tag de fechamento do <code>div</code> apos o fechamento do tag <code>ol</code> e então as suas duas listas estarão dentro de um <code>div</code>"
       ],
-        ]
     },
     {
       "_id": "bad87fee1348bd9aede07836",
@@ -2456,8 +2454,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Dê uma cor de fundo para um elemento DIV",
+      "descriptionPt": [
+        "Crie uma classe chamada \"gray-background\" com a cor de fundo cinza. Atribua esta classe ao seu elemento <code>div</code>.",
+        "Você pode definir a cor de fundo de um elemento com o atributo \"background-color\".",
+        "Por exemplo, se você quer que a cor de fundo de um elemento seja \"green\", você deve usar <code>.green-background { background-color: green; }</code> dentro do seu elemento <code>style</code>."
+      ]
     },
     {
       "_id": "bad88fee1348bd9aedf08825",
