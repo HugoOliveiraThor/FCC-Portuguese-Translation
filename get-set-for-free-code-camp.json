@@ -308,11 +308,11 @@
         "Uma das melhores maneiras de permanecer motivado enquanto está aprendendo a programar é sair para se encontrar com outros campers.",
         "Slack e Camper News são ótimas formas de se comunicar com outros campers, mas não há nada como encontrar outras pessoas pessoalmente.",
         "A forma mais fácil de encontrar outros campers na sua cidade é se juntar ao grupo do Facebook da sua cidade. Clique <a href='/field-guide/how-can-i-find-other-free-code-camp-campers-in-my-city' target='_blank'>aqui</a> para ver a nossa lista crescente de grupos locais.",
-        "Clique no link da sua cidade, então, quando o Facebook carregar, clique \"Join group\".",
+        "Clique no link da sua cidade, então, quando o Facebook carregar, clique em \"Join group\".",
         "Os nossos grupos locais são novos, então se você não encontrar a sua cidade na lista, você deveria seguir as instruções para criar um grupo do Facebook para a sua cidade.",
         "Se você não tem uma conta do Facebook, nós recomendamos fortemente que você crie uma, mesmo que seja apenas para se organizar com os campers na sua cidade através desse grupo.",
         "Os nossos grupos permitem que você crie eventos, coordene esses eventos, e compartilhe fotos dos eventos depois.",
-        "Quer você esteja hospedando um grupo de estudo, fazendo pair programming na sua biblioteca local, ou indo para um hackathon de fim de semana, o grupo da sua cidade vai te ajudar a fazer acontecer."
+        "Quer você esteja hospedando um grupo de estudo, programando em dupla na sua biblioteca local ou indo para um hackathon de fim de semana, o grupo da sua cidade vai te ajudar a fazer acontecer."
       ]
     },
     {
@@ -352,10 +352,10 @@
       "namePt": "Waypoint: Obtenha Ajuda do Modo Hacker com RSAP",
       "descriptionPt": [
         "Vamos cobrir uma última coisa antes que você comece a trabalhar nas nossas lições: como obter ajuda.",
-        "Sempre que você ficar preso ou não sabe o que fazer, siga esse simples algoritmo (procedimento): RSAP (Read, Search, Ask, Post). Ou em português: Leia, Pesquise, Pergunte, Poste",
-        "Primeiro, Leia - Leia a documentação ou mensagem de erro. Uma habilidade fundamental que bons programadores têm é a habilidade de interpretar, e então seguir, instruções.",
+        "Sempre que você ficar preso ou não souber o que fazer, siga esse simples algoritmo (procedimento): RSAP (Read, Search, Ask, Post) ou, em português: Leia, Pesquise, Pergunte, Poste",
+        "Primeiro, Leia - Leia a documentação ou mensagem de erro. Uma habilidade fundamental que bons programadores têm é a habilidade de interpretar e, então seguir instruções.",
         "Próximo, Pesquise - Pesquise no Google. Boas pesquisas no Google requerem bastante prática. Quando você pesquisa no Google, geralmente você quer incluir a linguagem ou framework que está usando. Você também quer limitar os resultados para um período recente.",
-        "Então, se você ainda não encontrou uma resposta para a sua questão, Pergunte - Pergunte a seus amigos. Se você tiver problemas, pergunte aos seus colegas campers. Nós temos uma sala de bate-papo especificamente para obter ajuda, com ferramentas que você aprende através desses desafios do Free Code Camp. Vá para <a href='https://freecodecamp.slack.com/messages/help/' target='_blank'>https://freecodecamp.slack.com/messages/help/</a>. Mantenha esse chat aberto enquanto você trabalha nos desafios restantes.",
+        "Então, se você ainda não encontrou uma resposta para a sua questão, Pergunte - Pergunte aos seus amigos. Se você tiver problemas, pergunte aos seus colegas campers. Nós temos uma sala de bate-papo especificamente para obter ajuda, com ferramentas que você aprende através desses desafios do Free Code Camp. Vá para <a href='https://freecodecamp.slack.com/messages/help/' target='_blank'>https://freecodecamp.slack.com/messages/help/</a>. Mantenha esse chat aberto enquanto você trabalha nos desafios restantes.",
         "Finalmente, Poste - Poste no Stack Overflow. Antes que você tente fazer isso, leia o guia do Stack Overflow para fazer boas perguntas: <a href='http://stackoverflow.com/help/how-to-ask'>http://stackoverflow.com/help/how-to-ask</a>.",
         "Aqui está o nosso guia detalhado de como obter ajuda: <a href='/field-guide/how-do-i-get-help-when-i-get-stuck' target='_blank'>http://freecodecamp.com/field-guide/how-do-i-get-help-when-i-get-stuck</a>.",
         "Agora você tem um algoritmo claro a seguir quando você precisar de ajuda! Vamos começar a programar! Passe para o próximo desafio."
