@@ -42,10 +42,10 @@
       "descriptionPt": [
         "Bem-vindo ao primeiro desafio de codificação do Free Code Camp! Clique no botão abaixo para obter mais instruções.",
         "Ótimo. Agora você pode ler o resto das instruções deste desafio.",
-        "Você pode editar <code> código </code>em seu<code> editor de texto </code> que já  temos incorporado a esta página web.",
+        "Você pode editar <code>código</code> em seu <code>editor de texto</code> que já temos incorporado a esta página web.",
         "Você vê o código em seu editor de texto que diz <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Essa é um <code>elemento</code> HTML .",
-        "A maioria dos elementos HTML têm uma <code> tag de abertura </code> e <code> tag de fechamento </code>. Abrir tags é parecido com isto: <code>&#60;h1&#62;<code>.Fechamentos de tags são parecidas com isto:<code>&#60;/h1&#62;</code>. Observe que a única diferença entre a abertura e a tag de fechamento é que essas tags tem uma barra invertida depois de abrir a tag. ",
-        "Uma vez concluido cada desafio e todos os seus testes forem concluídos , o  botão \" Go to my next challenge \" será ativado. Clique nele - Ou pressione CONTROL + ENTER ao mesmo tempo  para avançar para o próximo desafio.",
+        "A maioria dos elementos HTML têm uma <code>tag de abertura</code> e <code>tag de fechamento</code>. Abrir tags é parecido com isto: <code>&#60;h1&#62;<code>.Fechamentos de tags são parecidas com isto:<code>&#60;/h1&#62;</code>. Observe que a única diferença entre a abertura e a tag de fechamento é que essas tags tem uma barra invertida depois de abrir a tag. ",
+        "Uma vez concluido cada desafio e todos os seus testes forem concluídos, o  botão \" Go to my next challenge \" será ativado. Clique nele - Ou pressione CONTROL + ENTER ao mesmo tempo para avançar para o próximo desafio.",
         "Para ativar o botão  \" Go to my next challenge \" e avançar nos exercícios : Mude a sua tag <code>h1</code> do texto para dizer \"Hello World\" em vez de \"Hello\"."
       ]
     },
@@ -84,10 +84,10 @@
 	  ],
       "namePt": "Waypoint: Títulos com elementos H2",
       "descriptionPt": [
-        "Adicionar uma tag <code>h2</code> que diz \"CatPhotoApp\" para criar um segundo <code>elemento</code> HTML  abaixo do seu \"Hello World\" elemento <code>h1</code>. ",
-        "O elemento<code> h2 </code> que irá digitou irá criar um elemento <code>h2</code> no site.",
-        "Este elemento diz ao navegador como irá processar o texto que ele contém.",
-        "Elementos <code>h2</code> são ligeiramente menores do que elementos <code>h1</code>. Há também elementos <code>h3</code>,<code>H4</code>,<code>h5</code> e <code>h6</code>."
+        "Adicione uma tag <code>h2</code> que diz \"CatPhotoApp\" para criar um segundo <code>elemento</code> HTML abaixo do seu \"Hello World\" elemento <code>h1</code>.",
+        "O elemento <code>h2</code> que você digitou irá criar um elemento <code>h2</code> no site.",
+        "Este elemento diz ao navegador como ele irá processar o texto que ele contém.",
+        "Elementos <code>h2</code> são ligeiramente menores do que elementos <code>h1</code>. Há também elementos <code>h3</code>, <code>H4</code>, <code>h5</code> e <code>h6</code>."
       ]
     },
     {
@@ -123,8 +123,8 @@
 	  ],
       "namePt": "Waypoint: Trabalhe com o Elemento Parágrafo",
       "descriptionPt": [
-        "Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
-        "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
+        "Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code>, e coloque o texto \"Hello Paragrah\".",
+        "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação \"parágrafo\".",
         "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
       ]
     },
@@ -162,10 +162,10 @@
       ],
       "namePt": "WayPoint : Separe visualmente os elementos atravês de quebra de linhas ",
       "descriptionPt": [
-      "Adicione um elemento <code>br<code> á uma página , preferencialmente entre dois de seus elementos .",
-      "Elementos <code>br</code> também conhecidos como elementos \"quebra de linha\" , podem ser criados atravês com <code>&#60;br&#62</code>.",
-      "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".",
-      "Você irá encontrar outras tags de elementos de fechamento automático em breve."
+        "Adicione um elemento <code>br<code> á uma página preferencialmente entre dois de seus elementos.",
+        "Elementos <code>br</code> também são conhecidos como elementos de \"quebra de linha\", que podem ser criados atravês de <code>&#60;br&#62</code>.",
+        "Note que o elemento <code>&#60;br&#62</code> não tem tag de fechamento. Isto é chamado de elemento de \"fechamento-automático\".",
+        "Você irá encontrar outras tags de elementos de fechamento automático em breve."
       ]
     },
     {
@@ -385,7 +385,7 @@
         "Mude o estilo do elemento <code>h2</code> para que o texto seja exibido em vermelho.",
         "Nós podemos fazer isso mudando o \"style\" do nosso elemento <code>h2</code>.",
         "O estilo que é responsável pelo cor do elemento de texto é \"color\" style.",
-        "Aqui está como você deve setar seu elemento <code>h2</code> de texto para a cor azul : <code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>."
+        "Aqui está como você deve setar seu elemento <code>h2</code> de texto para a cor azul: <code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>."
       ]
     },
     {
@@ -431,13 +431,13 @@
       ],
       "namePt": "Use seletores CSS para Estilizar seus Elementos",
       "descriptionPt": [
-        "Delete o atributo <code>h2</code> do estilo de elemento em vez de criar um <code>estilo</code> CSS.Adicione o CSS necessário para transformar todos <code>h2</code> elementos em azul.",
+        "Delete o atributo <code>h2</code> do estilo de elemento em vez de criar um <code>estilo</code> CSS. Adicione o CSS necessário para transformar todos <code>h2</code> elementos em azul.",
         "No CSS existem centenas \"atributos\" CSS que você pode usar para mudar a maneira como um elemento é visualizado na sua página.",
-        "Quando você entra com <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>,você está dizendo que aquele elemento indivídual <code>h2</code> está \"inline style\".",
-        "Essa é uma maneira de adicionar estilo a um elemento,mas a melhor maneira é usando Cascading Style Sheets (CSS).",
+        "Quando você entra com <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>, você está dizendo que aquele elemento indivídual <code>h2</code> está \"inline style\".",
+        "Essa é uma maneira de adicionar estilo a um elemento, mas a melhor maneira é usando Cascading Style Sheets(CSS).",
         "No início do seu código, crie um elemento <code>style</code> como este: <code>&#60;style&#62;&#60;/style&#62;</code>.",
-        "Dentro desse elemento de estilo, você pode criar um \"seletor CSS\"para todos elementos <code>h2</code>. Por exemplo, se você queria que todos os seus elementos <code>h2</ code> sejam vermelhos , o seu estilo nesse elemento ficaria assim:<code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
-        "Note que é importante fazer a abertura e fechamento das chaves (<code> {</code> and <code>} </ code>) em torno do estilo de cada elemento. Você também precisa ter certeza que o estilo do seu elemento está entre a abertura e fechando das tags de estilos.Finalmente,não se esqueça de adicionar o ponto e vírgula ao final de cada um dos estilos de seu elemento."
+        "Dentro desse elemento de estilo, você pode criar um \"seletor CSS\" para todos elementos <code>h2</code>. Por exemplo, se você queria que todos os seus elementos <code>h2</ code> sejam vermelhos, o seu estilo nesse elemento ficaria assim:<code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
+        "Note que é importante fazer a abertura e fechamento das chaves (<code> {</code> and <code>} </ code>) em torno do estilo de cada elemento. Você também precisa ter certeza que o estilo do seu elemento está entre a abertura e fechando das tags de estilos. Finalmente, não se esqueça de adicionar o ponto e vírgula ao final de cada um dos estilos de seu elemento."
       ]
     },
     {
@@ -480,14 +480,14 @@
       "descriptionEs": [],
       "namePt": "WayPoint: Use uma classe CSS para Estilizar um Elemento",
       "descriptionPt": [
-      "Crie uma classe CSS chamada \"red-text\" e aplique ao seu elemento <code>h2</code>.",
+        "Crie uma classe CSS chamada \"red-text\" e aplique ao seu elemento <code>h2</code>.",
         "As classes são estilos reutilizáveis ​​que podem ser adicionados a elementos HTML.",
         "Aqui está um modelo de uma classe CSS:",
         "<img class='img-responsive' alt='um diagrama de como as tags estilizadas são compostas,o que é também descrito em detalhes nas linhas abaixo.'src='https://www.evernote.com/l/AHSCzZV0l_dDLrqD8r9JsHaBWfEzdN0OpRwB/image.png'/>",
         "Você pode ver que nós criamos uma classe CSS chamada \"blue-text\" dentro de uma tag <code>&#60;style&#62;</code>.",
         "Você pode aplicar uma classe a um elemento HTML como este: <code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;/h2&#62;</code>.",
-        "Note que o seu elemento de <code>estilo</code> CSS,as classes devem começar com um ponto.Nas suas declarações de classes em elementos HTML,as classes não devem começar com um ponto.",
-        "Em vez de criar um novo elemento de <code>estilo</code>, tente remover o <code>h2</code> da declaração do seu elemento de estilo existente,e em seguida substitua com a declaração da classe para \".red-text\"."
+        "Note que o para seu elemento de <code>estilo</code> CSS suas classes devem começar com um ponto. Nas suas declarações de classes em elementos HTML as classes não devem começar com um ponto.",
+        "Em vez de criar um novo elemento de <code>estilo</code> tente remover o <code>h2</code> da declaração do seu elemento de estilo existente, e em seguida substitua com a declaração da classe para \".red-text\"."
       ]
     },
     {
@@ -573,7 +573,7 @@
         "Crie um segundo elemento <code>p</code>.Em seguida dentro de seu elemento <code>&#60;style&#62;</code> defina o \"font-size\" de todos elementos <code>p</code> com 16 pixels.",
         "O tamanho da fonte é controlado pelo atributo CSS \"font-size\" como este: <code>h1 {font-size: 30px;}</code>.",
         "Em primeiro lugar crie um segundo elemento <code>p</code> com o seguinte texto Kitty Ipsum:<code>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</code>",
-        "Veja se você pode descobrir como dar tanto ao seus dois elemento <code>p</code> o tamanho da fonte com 16 pixels (<code>16px</code>).Você pode fazer isso dentro de uma  mesma tag <code>&#60;style&#62;</code> que criamos para a sua classe \"red-text\"."
+        "Veja se você pode descobrir como dar aos seus dois elementos <code>p</code> o tamanho da fonte de 16 pixels (<code>16px</code>). Você pode fazer isso dentro de uma  mesma tag <code>&#60;style&#62;</code> que criamos para a sua classe \"red-text\"."
       ]
     },
     {
@@ -665,8 +665,8 @@
       "namePt": "WayPoint: Importe uma fonte do Google Font",
       "descriptionPt": [
         "Aplicar a <code>font-family</code> da \"Lobster\" ao seu elemento <code>h2</code>.",
-        "Primeiro,você precisa fazer uma \"chamada\" para o Google para pegar a fonte \"Lobster\" e carregá-la em seu HTML.",
-        "Copie o seguinte trecho de código e cole-o no seu editor de código,acima do seu elemento <code>style</code>:",
+        "Primeiro, você precisa fazer uma \"chamada\" para o Google para pegar a fonte \"Lobster\" e carregá-la em seu HTML.",
+        "Copie o seguinte trecho de código e cole-o no seu editor de código acima do seu elemento <code>style</code>:",
         "<code>&#60;link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'&#62;</code>.",
         "Agora você pode definir \"Lobster\" como um atributo font-family do seu elemento <code>h2</code>."
       ]
