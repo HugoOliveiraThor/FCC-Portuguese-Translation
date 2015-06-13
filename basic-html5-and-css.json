@@ -1488,8 +1488,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Monte uma Lista não Ordenada de Marcadores",
+      "descriptionPt": [
+        "Troque os elementos <code>p</code> por uma lista não ordenada de 3 coisas que gatos adoram",
+        "O HTML tem um elemento especial para criar listas não ordenadas, ou listas de marcadores estilo-ponto ",
+        "Listas não ordenadas começam com o elemento  <code>&#60;ul&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
+        "Por exemplo: <code>&#60;ul&#62;&#60;li&#62;milk&#60;/li&#62;&#60;li&#62;cheese&#60;/li&#62;&#60;/ul&#62;</code> iria criar uma lista marcada de \"milk\" e \"cheese\"."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08828",
@@ -1560,8 +1565,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Crie uma Lista Ordenada",
+      "descriptionPt": [
+        "Crie uma lista ordenada com as 3 coisas que os gatos mais odeiam.",
+        "O HTML tem um elemento especial para criar listas ordenadas, ou listas com estilo-enumerado",
+        "Listas ordenadas começam com o elemento <code>&#60;ol&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
+        "Por exemplo: <code>&#60;ol&#62;&#60;li&#62;hydrogen&#60;/li&#62;&#60;li&#62;helium&#60;/li&#62;&#60;/ol&#62;</code> iria criar uma lista enumerada de \"hydrogen\" e \"helium\". "
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08829",
@@ -1631,8 +1641,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um Campo de Texto",
+      "descriptionPt": [
+        "Agora nós iremos criar um formulário. Crie uma entrada de texto abaixo das suas listas",
+        "Entradas de texto são um modo conveniente de receber dados do seu usuário.",
+        "Você pode criar uma como essa: <code>&#60;input type='text'&#62;</code>. Observe que os elementos <code>input</code> possuem fechamento próprio."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08830",
@@ -1704,8 +1718,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione um Espaço com Texto Reservado no Campo de Texto",
+      "descriptionPt": [
+        "Coloque o valor <code>placeholder</code> do seu texto <code>input</code> para \"cat photo URL\".",
+        "O seu texto reservado sera o que aparecera na sua caixa de texto <code>input</code> antes do seu usuário inserir qualquer informação.",
+        "Você pode criar um texto reservado da seguinte forma: <code>&#60;input type='text' placeholder='this is placeholder text'&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aede08830",
@@ -1779,8 +1797,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Crie um Elemento Formulário",
+      "descriptionPt": [
+        "Conglomere o seu campo de texto dentro do elemento <code>form</code>. Adicione o atributo <code>action=\"/submit-cat-photo\"</code> no elemento formulário.",
+        "Você pode montar formulários que possam realmente enviar dados para um servidor usando nada mais do que HTML puro. Você pode fazer isso especificando uma ação no seu elemento <code>form</code>.",
+        "Por exemplo: <code>&#60;form action=\"/url-where-you-want-to-submit-form-data\"&#62;&#60;/form&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedd08830",
@@ -1856,8 +1878,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Adicione um botão Enviar em um Formulário",
+      "descriptionPt": [
+        "Adicione um botão enviar na seu elemento <code>form</code> com type \"submit\" e \"Enviar\" como o texto.",
+        "Vamos adicionar o botão Enviar no seu formulário. Clicando nesse botão ira enviar dados do seu formulário para o URL que você especificou com o atributo <code>action</code> no formulário.",
+        "Aqui vai um exemplo do botão Enviar: <code>&#60;button type='submit'&#62;this button submits the form&#60;/button&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedc08830",
@@ -1931,8 +1957,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Utilize HTML5 para exigir preenchimento obrigatório",
+      "descriptionPt": [
+        "Faça do seu texto <code>input</code> um campo obrigatório usando \"required\", pois dessa forma o seu usuário não poderá enviar o formulário sem completar o campo obrigatório.",
+        "Você pode exigir campos específicos no formulário fazendo com que o seu usuário não consiga enviar o formulário antes que ele ou ela tenha inserido o informação requisitada.",
+        "Por exemplo, se você quiser fazer um preenchimento de texto obrigatório, você apenas precisa adicionar a palavra \"required\" entre o elemento <code>input</code>, você usaria: <code>&#60;input type='text' required&#62;</code>."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aedf08834",
@@ -2362,7 +2392,7 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt":  "Waypoint: Junte vários elementos dentro de um unico Div elemento",
+      "namePt":  "Waypoint: Junte Vários Elementos Dentro de um Único Elemento Div",
       "descriptionPt": [
         "Junte as suas listas de \"Coisas que gatos adoram\" e \"Coisas que gatos odeiam\" dentro de um único <code>div</code> elemento.",
         "O <code>div</code> elemento, ou \"Division\" elemento, e um conteiner com proposito geral para outros elementos.",
