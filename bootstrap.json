@@ -1203,8 +1203,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Responsividade com  Botões de Estilo tipo Rádio",
+      "descriptionPt": [
+        "Agrupe todos os seus botões de rádio dentro de um elemento <code>&#60;div class='row'&#62;</code>. Em seguida, agrupe cada um deles dentro de um elemento <code>&#60;div class='col-xs-6'&#62;</code>.",
+        "Você pode usar as classes de Bootstrap \"col-xs-*\" no seu elemento <code>form</code> também. Desta forma, os nossos botões de rádio serão distribuídos uniformemente ao longo da página, independentemente de quão grande a resolução da tela é!."
+
+      ]
     },
     {
       "_id": "bad87fee1348bd9aeda08845",
@@ -1296,8 +1300,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: receptividade Estilo caixas de seleção",
+      "descriptionPt": [
+        "Agrupe todas as suas caixas de seleção em um elemento <code>&#60;div class='row'&#62;</code>. Em seguida, envolva cada um deles em um elemento <code>&#60;div class='col-xs-4'&#62;</code>.",
+        "Você pode usar classes Bootstrap \"col-xs-*\" nos elementos <code>form</code> também. Desta forma, nossas caixas de seleção serão distribuídas uniformemente ao longo da página, independentemente de quão grande a resolução da tela é!."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aed908845",
@@ -1399,8 +1406,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Estilo entradas de texto como controles de formulário",
+      "descriptionPt": [
+        "Atribua ao seu caixa de entrada de texto do seu form a classe \"form-control\". Atribua ao botão de submeter o formulário as classes \"btn btn-primary\". Aproveite e atribua este botão o ícone do Font Awesome Icon de \"fa-paper-plane\".",
+        "Você pode adicionar o Font Awesome Icon \"fa-paper-plane\" adicionando <code>&#60;i class=\"fa fa-paper-plane\"&#62;&#60;/i&#62;</code> no seu  elemento <code>botão</code> de enviar(submit)."
+      ]
     },
     {
       "_id": "bad87fee1348bd9aec908845",
@@ -1503,8 +1513,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Alinhe Elementos Forms com responsividade usando Bootstrap",
+      "descriptionPt": [
+        "Agora vamos começar o seu formulário <code>de entrada</code> e seu <code>botão</code> de submit na mesma linha. Nós vamos fazer isso da mesma forma que temos anteriormente: usando um elemento <code>div</code> com a classe \"row\", e outro elemento <code>div</code> dentro dele usando a classe \"col-xs-*\".",
+        "Agrupe tanto o seu formulário de texto <code>de entrada</code> do seu formulário e  seu <code>botão</code> submit dentro de uma <code>div</code> com a classe \"row\". Agrupe seu formulário de texto de <code>entrada</code> dentro de uma classe div chamada \"col-xs-7\". Agrupe seu <code>botão</code> de submit em uma <code>div</code> do formulário com a classe \"col-xs-5\".",
+        "Este é o último desafio que vamos fazer para nosso Cat Photo App por agora. Nós esperamos que você tenha gostado de aprender Font Awesome, Bootstrap e designer responsivo!"
+      ]
     }
   ]
 }
